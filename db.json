@@ -47,7 +47,7 @@
 		"name": "typicode"
 	},
 	"downtime": [{
-			"channel": "Chat",
+			"title": "Chat",
 			"description": "Chat services",
 			"type": "unscheduled",
 			"starts_at": "2013-01-07T19:05:00Z",
