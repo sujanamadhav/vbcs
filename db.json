@@ -45,5 +45,56 @@
 	],
 	"profile": {
 		"name": "typicode"
-	}
+	},
+	"downtime": [{
+			"channel": "Chat",
+			"description": "Chat services",
+			"type": "unscheduled",
+			"starts_at": "2013-01-07T19:05:00Z",
+			"ends_at": "2013-01-07T19:20:00Z",
+			"region": "USA",
+			"Scheduled Week": "23",
+			"SizeOfRegion": "90"
+		},
+		{
+			"title": "Social",
+			"description": "Social interaction services",
+			"type": "unscheduled",
+			"starts_at": "2013-03-09T22:04:00Z",
+			"ends_at": "2013-01-09T22:17:00Z",
+			"region": "ASIA",
+			"Scheduled Week": "43",
+			"SizeOfRegion": "190"
+		},
+		{
+			"title": "Contact Center",
+			"description": "Contact center",
+			"type": "scheduled",
+			"starts_at": "2013-03-27T05:00:00Z",
+			"ends_at": "2013-01-27T05:30:00Z",
+			"region": "Middle East",
+			"Scheduled Week": "36",
+			"SizeOfRegion": "190"
+		},
+		{
+			"title": "Web",
+			"description": "Web communication",
+			"type": "scheduled",
+			"starts_at": "2013-05-27T05:00:00Z",
+			"ends_at": "2013-01-27T05:30:00Z",
+			"region": "EUROPE",
+			"Scheduled Week": "21",
+			"SizeOfRegion": "100"
+		},
+		{
+			"title": "Contact Center",
+			"description": "Contact center",
+			"type": "scheduled",
+			"starts_at": "2013-07-27T05:00:00Z",
+			"ends_at": "2013-01-27T05:30:00Z",
+			"region": "Australia",
+			"Scheduled Week": "16",
+			"SizeOfRegion": "30"
+		}
+	]
 }
