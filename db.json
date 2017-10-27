@@ -64,7 +64,7 @@
 			"ends_at": "2013-01-09T22:17:00Z",
 			"region": "ASIA",
 			"Scheduled Week": "43",
-			"SizeOfRegion": "190"
+			"SizeOfRegion": "235"
 		},
 		{
 			"title": "Contact Center",
@@ -74,7 +74,7 @@
 			"ends_at": "2013-01-27T05:30:00Z",
 			"region": "Middle East",
 			"Scheduled Week": "36",
-			"SizeOfRegion": "190"
+			"SizeOfRegion": "150"
 		},
 		{
 			"title": "Web",
@@ -83,8 +83,8 @@
 			"starts_at": "2013-05-27T05:00:00Z",
 			"ends_at": "2013-01-27T05:30:00Z",
 			"region": "EUROPE",
-			"Scheduled Week": "21",
-			"SizeOfRegion": "100"
+			"Scheduled Week": "28",
+			"SizeOfRegion": "190"
 		},
 		{
 			"title": "Contact Center",
@@ -94,7 +94,7 @@
 			"ends_at": "2013-01-27T05:30:00Z",
 			"region": "Australia",
 			"Scheduled Week": "16",
-			"SizeOfRegion": "30"
+			"SizeOfRegion": "65"
 		}
 	]
 }
