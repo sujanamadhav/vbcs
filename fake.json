@@ -1,11 +1,406 @@
 {
-  "test": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"mytasks": [{
+			"id": 1,
+			"title": "Customer Follow Up",
+			"total": 4,
+			"issues": {
+				"id": 1,
+				"customer name": "romaguera",
+				"category": "multi-layered client-server neural-net",
+				"priority": "P1"
+			}
+		},
+		{
+			"id": 2,
+			"title": "Billing Dispute Resolution",
+			"total": 3,
+			"issues": {
+				"id": 1,
+				"customer name": "romaguera",
+				"category": "multi-layered client-server neural-net",
+				"priority": "P1"
+			}
+		}, {
+			"id": 3,
+			"title": "Service Request Resolution",
+			"total": 2,
+			"issues": {
+				"id": 1,
+				"incidentNumber": "1111",
+				"incidentDesc": "XXXXX",
+				"priority": "P1"
+			}
+		},
+		{
+			"id": 4,
+			"title": "KM Note Review",
+			"total": 4,
+			"issues": {
+				"id": 1,
+				"customer name": "romaguera",
+				"category": "multi-layered client-server neural-net",
+				"priority": "P1"
+			}
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	},
+	"downtime": [{
+		"items": [{
+			"id": 1,
+			"creationDate": "2017-11-16T13:47:57+00:00",
+			"lastUpdateDate": "2017-11-16T13:47:57.039+00:00",
+			"createdBy": "abcs.demo@oracle.com",
+			"lastUpdatedBy": "abcs.demo@oracle.com",
+			"abcsChangeNumber": null,
+			"title": "Chat",
+			"description": "Chat Services",
+			"type_": "unscheduled",
+			"startsAt": "2017-10-02T13:50:00+00:00",
+			"endsAt": "2017-10-03T13:50:00+00:00",
+			"region": "USA",
+			"scheduledWeek": 16,
+			"sizeOfRegion": 9E+1,
+			"links": [{
+				"rel": "self",
+				"href": "https://pte240.us.oracle.com:8443/design/AgentDashboard/1.0/resources/data/CustomDowntime/1",
+				"name": "CustomDowntime",
+				"kind": "item",
+				"properties": {
+					"changeIndicator": "ACED0005737200136A6176612E7574696C2E41727261794C6973747881D21D99C7619D03000149000473697A657870000000017704000000017372001B6F7261636C652E6A626F2E646F6D61696E2E4E756C6C56616C75655899C1C58DAABEEB02000149000A6D53514C54797065496478700000000C78"
+				}
+			}, {
+				"rel": "canonical",
+				"href": "https://pte240.us.oracle.com:8443/design/AgentDashboard/1.0/resources/data/CustomDowntime/1",
+				"name": "CustomDowntime",
+				"kind": "item"
+			}]
+		}, {
+			"id": 2,
+			"creationDate": "2017-11-16T13:48:11+00:00",
+			"lastUpdateDate": "2017-11-16T13:48:11.004+00:00",
+			"createdBy": "abcs.demo@oracle.com",
+			"lastUpdatedBy": "abcs.demo@oracle.com",
+			"abcsChangeNumber": null,
+			"title": "Social",
+			"description": "Social Services",
+			"type_": "scheduled",
+			"startsAt": "2017-02-02T13:50:00+00:00",
+			"endsAt": "2017-02-03T13:50:00+00:00",
+			"region": "ASIA",
+			"scheduledWeek": 28,
+			"sizeOfRegion": 235,
+			"links": [{
+				"rel": "self",
+				"href": "https://pte240.us.oracle.com:8443/design/AgentDashboard/1.0/resources/data/CustomDowntime/2",
+				"name": "CustomDowntime",
+				"kind": "item",
+				"properties": {
+					"changeIndicator": "ACED0005737200136A6176612E7574696C2E41727261794C6973747881D21D99C7619D03000149000473697A657870000000017704000000017372001B6F7261636C652E6A626F2E646F6D61696E2E4E756C6C56616C75655899C1C58DAABEEB02000149000A6D53514C54797065496478700000000C78"
+				}
+			}, {
+				"rel": "canonical",
+				"href": "https://pte240.us.oracle.com:8443/design/AgentDashboard/1.0/resources/data/CustomDowntime/2",
+				"name": "CustomDowntime",
+				"kind": "item"
+			}]
+		}, {
+			"id": 3,
+			"creationDate": "2017-11-16T13:48:24+00:00",
+			"lastUpdateDate": "2017-11-16T13:48:24.004+00:00",
+			"createdBy": "abcs.demo@oracle.com",
+			"lastUpdatedBy": "abcs.demo@oracle.com",
+			"abcsChangeNumber": null,
+			"title": "Contact Center",
+			"description": "Contact Center",
+			"type_": "unscheduled",
+			"startsAt": "2017-06-02T13:50:00+00:00",
+			"endsAt": "2017-06-03T13:50:00+00:00",
+			"region": "MIDDLE EAST",
+			"scheduledWeek": 36,
+			"sizeOfRegion": 1.5E+2,
+			"links": [{
+				"rel": "self",
+				"href": "https://pte240.us.oracle.com:8443/design/AgentDashboard/1.0/resources/data/CustomDowntime/3",
+				"name": "CustomDowntime",
+				"kind": "item",
+				"properties": {
+					"changeIndicator": "ACED0005737200136A6176612E7574696C2E41727261794C6973747881D21D99C7619D03000149000473697A657870000000017704000000017372001B6F7261636C652E6A626F2E646F6D61696E2E4E756C6C56616C75655899C1C58DAABEEB02000149000A6D53514C54797065496478700000000C78"
+				}
+			}, {
+				"rel": "canonical",
+				"href": "https://pte240.us.oracle.com:8443/design/AgentDashboard/1.0/resources/data/CustomDowntime/3",
+				"name": "CustomDowntime",
+				"kind": "item"
+			}]
+		}, {
+			"id": 4,
+			"creationDate": "2017-11-16T13:48:24+00:00",
+			"lastUpdateDate": "2017-11-16T13:48:24.004+00:00",
+			"createdBy": "abcs.demo@oracle.com",
+			"lastUpdatedBy": "abcs.demo@oracle.com",
+			"abcsChangeNumber": null,
+			"title": "Web",
+			"description": "Web Communication",
+			"type_": "scheduled",
+			"startsAt": "2017-08-02T13:50:00+00:00",
+			"endsAt": "2017-08-03T13:50:00+00:00",
+			"region": "EUROPE",
+			"scheduledWeek": 43,
+			"sizeOfRegion": 1.9E+2,
+			"links": [{
+				"rel": "self",
+				"href": "https://pte240.us.oracle.com:8443/design/AgentDashboard/1.0/resources/data/CustomDowntime/4",
+				"name": "CustomDowntime",
+				"kind": "item",
+				"properties": {
+					"changeIndicator": "ACED0005737200136A6176612E7574696C2E41727261794C6973747881D21D99C7619D03000149000473697A657870000000017704000000017372001B6F7261636C652E6A626F2E646F6D61696E2E4E756C6C56616C75655899C1C58DAABEEB02000149000A6D53514C54797065496478700000000C78"
+				}
+			}, {
+				"rel": "canonical",
+				"href": "https://pte240.us.oracle.com:8443/design/AgentDashboard/1.0/resources/data/CustomDowntime/4",
+				"name": "CustomDowntime",
+				"kind": "item"
+			}]
+		}, {
+			"id": 5,
+			"creationDate": "2017-11-16T13:48:27+00:00",
+			"lastUpdateDate": "2017-11-16T13:48:27.004+00:00",
+			"createdBy": "abcs.demo@oracle.com",
+			"lastUpdatedBy": "abcs.demo@oracle.com",
+			"abcsChangeNumber": null,
+			"title": "Email",
+			"description": "Email Services",
+			"type_": "scheduled",
+			"startsAt": "2017-05-02T13:50:00+00:00",
+			"endsAt": "2017-05-03T13:50:00+00:00",
+			"region": "AUSTRALIA",
+			"scheduledWeek": 23,
+			"sizeOfRegion": 65,
+			"links": [{
+				"rel": "self",
+				"href": "https://pte240.us.oracle.com:8443/design/AgentDashboard/1.0/resources/data/CustomDowntime/5",
+				"name": "CustomDowntime",
+				"kind": "item",
+				"properties": {
+					"changeIndicator": "ACED0005737200136A6176612E7574696C2E41727261794C6973747881D21D99C7619D03000149000473697A657870000000017704000000017372001B6F7261636C652E6A626F2E646F6D61696E2E4E756C6C56616C75655899C1C58DAABEEB02000149000A6D53514C54797065496478700000000C78"
+				}
+			}, {
+				"rel": "canonical",
+				"href": "https://pte240.us.oracle.com:8443/design/AgentDashboard/1.0/resources/data/CustomDowntime/5",
+				"name": "CustomDowntime",
+				"kind": "item"
+			}]
+		}],
+		"count": 5,
+		"hasMore": false,
+		"limit": 25,
+		"offset": 0,
+		"links": [{
+			"rel": "self",
+			"href": "https://pte240.us.oracle.com:8443/design/AgentDashboard/1.0/resources/data/CustomDowntime",
+			"name": "CustomDowntime",
+			"kind": "collection"
+		}]
+	}],
+	"mybills": [{
+			"id": 307581780800776104,
+			"accountRef": {
+				"href": "/omc/webresources/v1.0/accounts/183037"
+			},
+			"billingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"arBillingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"name": "PIN Bill NOW",
+			"number": "B1-2",
+			"createdDate": "2017-11-14T02:27:30-08:00",
+			"startDate": "2017-10-19T00:00:00-07:00",
+			"endDate": "2017-11-14T02:27:30-08:00",
+			"dueDate": "2017-12-14T02:27:30-08:00",
+			"currentTotal": 0,
+			"previousTotal": 19.98,
+			"subordinateTotal": 0,
+			"due": 0,
+			"received": 0,
+			"transfered": 0,
+			"writeoff": 0,
+			"disputed": 0
+		},
+		{
+			"id": 306596618382266109,
+			"accountRef": {
+				"href": "/omc/webresources/v1.0/accounts/183037"
+			},
+			"billingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"arBillingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"name": "PIN Bill",
+			"number": "B1-1",
+			"createdDate": "2017-09-19T15:04:30-07:00",
+			"startDate": "2017-09-19T00:00:00-07:00",
+			"endDate": "2017-10-19T00:00:00-07:00",
+			"dueDate": "2017-11-18T00:00:00-08:00",
+			"currentTotal": 19.98,
+			"previousTotal": 0,
+			"subordinateTotal": 0,
+			"due": 19.98,
+			"received": 0,
+			"transfered": 0,
+			"writeoff": 0,
+			"disputed": 0
+		}
+	],
+	"describe": [{
+		"Resources": {
+			"accounts": {
+				"discrColumnType": false,
+				"title": "accounts",
+				"titlePlural": "cutomAccounts",
+				"attributes": [{
+					"name": "id",
+					"type": "integer",
+					"updatable": true,
+					"mandatory": true,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "creationDate",
+					"type": "datetime",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "inCreate"
+				}, {
+					"name": "lastUpdateDate",
+					"type": "datetime",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "createdBy",
+					"type": "string",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "inCreate"
+				}, {
+					"name": "lastUpdatedBy",
+					"type": "string",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "abcsChangeNumber",
+					"type": "integer",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "accountNumber",
+					"type": "string",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "name",
+					"type": "string",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "type",
+					"type": "string",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}],
+				"collection": {
+					"rangeSize": 25,
+					"finders": [{
+						"name": "PrimaryKey",
+						"attributes": [{
+							"name": "id",
+							"type": "integer",
+							"updatable": true,
+							"mandatory": true,
+							"queryable": true,
+							"allowChanges": "always"
+						}]
+					}],
+					"links": [{
+						"rel": "self",
+						"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts",
+						"name": "self",
+						"kind": "collection"
+					}],
+					"actions": [{
+						"name": "get",
+						"method": "GET",
+						"responseType": ["application/vnd.oracle.adf.resourcecollection+json", "application/json"]
+					}, {
+						"name": "create",
+						"method": "POST",
+						"requestType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"],
+						"responseType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"]
+					}, {
+						"name": "upsert",
+						"method": "POST",
+						"header": "Upsert-Mode=true",
+						"requestType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"],
+						"responseType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"]
+					}]
+				},
+				"item": {
+					"links": [{
+						"rel": "self",
+						"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts/{id}",
+						"name": "self",
+						"kind": "item"
+					}, {
+						"rel": "canonical",
+						"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts/{id}",
+						"name": "canonical",
+						"kind": "item"
+					}],
+					"actions": [{
+						"name": "get",
+						"method": "GET",
+						"responseType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"]
+					}, {
+						"name": "update",
+						"method": "PATCH",
+						"requestType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"],
+						"responseType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"]
+					}, {
+						"name": "delete",
+						"method": "DELETE"
+					}]
+				},
+				"links": [{
+					"rel": "self",
+					"href": "https://my-json-server.typicode.com/sujanamadhav/vbcs/describe",
+					"name": "self",
+					"kind": "describe"
+				}, {
+					"rel": "canonical",
+					"href": "https://my-json-server.typicode.com/sujanamadhav/vbcs/describe",
+					"name": "canonical",
+					"kind": "describe"
+				}]
+			}
+		}
+	}]
 }
