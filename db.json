@@ -256,5 +256,151 @@
 			"writeoff": 0,
 			"disputed": 0
 		}
-	]
+	],
+	"describe": [{
+		"Resources": {
+			"accounts": {
+				"discrColumnType": false,
+				"title": "accounts",
+				"titlePlural": "cutomAccounts",
+				"attributes": [{
+					"name": "id",
+					"type": "integer",
+					"updatable": true,
+					"mandatory": true,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "creationDate",
+					"type": "datetime",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "inCreate"
+				}, {
+					"name": "lastUpdateDate",
+					"type": "datetime",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "createdBy",
+					"type": "string",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "inCreate"
+				}, {
+					"name": "lastUpdatedBy",
+					"type": "string",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "abcsChangeNumber",
+					"type": "integer",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "accountNumber",
+					"type": "string",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "name",
+					"type": "string",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}, {
+					"name": "type",
+					"type": "string",
+					"updatable": true,
+					"mandatory": false,
+					"queryable": true,
+					"allowChanges": "always"
+				}],
+				"collection": {
+					"rangeSize": 25,
+					"finders": [{
+						"name": "PrimaryKey",
+						"attributes": [{
+							"name": "id",
+							"type": "integer",
+							"updatable": true,
+							"mandatory": true,
+							"queryable": true,
+							"allowChanges": "always"
+						}]
+					}],
+					"links": [{
+						"rel": "self",
+						"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts",
+						"name": "self",
+						"kind": "collection"
+					}],
+					"actions": [{
+						"name": "get",
+						"method": "GET",
+						"responseType": ["application/vnd.oracle.adf.resourcecollection+json", "application/json"]
+					}, {
+						"name": "create",
+						"method": "POST",
+						"requestType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"],
+						"responseType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"]
+					}, {
+						"name": "upsert",
+						"method": "POST",
+						"header": "Upsert-Mode=true",
+						"requestType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"],
+						"responseType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"]
+					}]
+				},
+				"item": {
+					"links": [{
+						"rel": "self",
+						"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts/{id}",
+						"name": "self",
+						"kind": "item"
+					}, {
+						"rel": "canonical",
+						"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts/{id}",
+						"name": "canonical",
+						"kind": "item"
+					}],
+					"actions": [{
+						"name": "get",
+						"method": "GET",
+						"responseType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"]
+					}, {
+						"name": "update",
+						"method": "PATCH",
+						"requestType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"],
+						"responseType": ["application/vnd.oracle.adf.resourceitem+json", "application/json"]
+					}, {
+						"name": "delete",
+						"method": "DELETE"
+					}]
+				},
+				"links": [{
+					"rel": "self",
+					"href": "https://my-json-server.typicode.com/sujanamadhav/vbcs/describe",
+					"name": "self",
+					"kind": "describe"
+				}, {
+					"rel": "canonical",
+					"href": "https://my-json-server.typicode.com/sujanamadhav/vbcs/describe",
+					"name": "canonical",
+					"kind": "describe"
+				}]
+			}
+		}
+	}]
 }
