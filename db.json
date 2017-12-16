@@ -1,48 +1,4 @@
 {
-	"mytasks": [{
-			"id": 1,
-			"title": "Customer Follow Up",
-			"total": 4,
-			"issues": {
-				"id": 1,
-				"customer name": "romaguera",
-				"category": "multi-layered client-server neural-net",
-				"priority": "P1"
-			}
-		},
-		{
-			"id": 2,
-			"title": "Billing Dispute Resolution",
-			"total": 3,
-			"issues": {
-				"id": 1,
-				"customer name": "romaguera",
-				"category": "multi-layered client-server neural-net",
-				"priority": "P1"
-			}
-		}, {
-			"id": 3,
-			"title": "Service Request Resolution",
-			"total": 2,
-			"issues": {
-				"id": 1,
-				"incidentNumber": "1111",
-				"incidentDesc": "XXXXX",
-				"priority": "P1"
-			}
-		},
-		{
-			"id": 4,
-			"title": "KM Note Review",
-			"total": 4,
-			"issues": {
-				"id": 1,
-				"customer name": "romaguera",
-				"category": "multi-layered client-server neural-net",
-				"priority": "P1"
-			}
-		}
-	],
 	"profile": {
 		"name": "typicode"
 	},
