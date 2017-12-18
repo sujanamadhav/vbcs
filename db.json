@@ -201,8 +201,8 @@
 			}
 		}
 	}],
-	"accounts": [{
-		"accounts": [{
+	"accounts": {
+		"items": [{
 			"id": 101,
 			"accountNumber": "ACT101",
 			"name": "Carol Parker",
@@ -237,5 +237,5 @@
 				"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts"
 			}]
 		}]
-	}]
+	}
 }
