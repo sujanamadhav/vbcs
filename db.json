@@ -189,12 +189,12 @@
 				},
 				"links": [{
 					"rel": "self",
-					"href": "https://my-json-server.typicode.com/sujanamadhav/vbcs/describe",
+					"href": "https://my-json-server.typicode.com/sujanamadhav/vbcs/accounts/describe",
 					"name": "self",
 					"kind": "describe"
 				}, {
 					"rel": "canonical",
-					"href": "https://my-json-server.typicode.com/sujanamadhav/vbcs/describe",
+					"href": "https://my-json-server.typicode.com/sujanamadhav/vbcs/accounts/describe",
 					"name": "canonical",
 					"kind": "describe"
 				}]
