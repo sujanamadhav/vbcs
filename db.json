@@ -140,7 +140,7 @@
 					}],
 					"links": [{
 						"rel": "self",
-						"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts",
+						"href": "https://my-json-server.typicode.com/sujanamadhav/vbcs/accounts/",
 						"name": "self",
 						"kind": "collection"
 					}],
@@ -164,12 +164,12 @@
 				"item": {
 					"links": [{
 						"rel": "self",
-						"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts/{id}",
+						"href": "https://my-json-server.typicode.com/sujanamadhav/vbcs/accounts/{id}",
 						"name": "self",
 						"kind": "item"
 					}, {
 						"rel": "canonical",
-						"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts/{id}",
+						"href": "https://my-json-server.typicode.com/sujanamadhav/vbcs/accounts/{id}",
 						"name": "canonical",
 						"kind": "item"
 					}],
