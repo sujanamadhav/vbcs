@@ -200,5 +200,42 @@
 				}]
 			}
 		}
+	}],
+	"accounts": [{
+		"accounts": [{
+			"id": 101,
+			"accountNumber": "ACT101",
+			"name": "Carol Parker",
+			"type": "consumer",
+			"currency": "USD",
+			"securityCodeQ": "My dog's name",
+			"securityCodeAns": "Fido",
+			"status": "active",
+			"createdDate": "2017-11-17T18:27:26.620Z",
+			"contacts": [{
+				"id": 1001,
+				"firstName": "Carol",
+				"lastName": "Parker",
+				"salutation": "Your Honor",
+				"email": "carol.parker@oracle.com",
+				"address": {
+					"streetOne": "H.No:3-5-87/C",
+					"city": "New York",
+					"state": "NY",
+					"postalCode": "10004",
+					"country": "US"
+				},
+				"phones": [{
+					"type": "work",
+					"number": "972-963-2749"
+				}]
+			}],
+			"billingPreferences": [],
+			"paymentProfiles": [],
+			"links": [{
+				"rel": "self",
+				"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts"
+			}]
+		}]
 	}]
 }
