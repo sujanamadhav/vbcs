@@ -53,6 +53,110 @@
 			"transfered": 0,
 			"writeoff": 0,
 			"disputed": 0
+		},
+		{
+			"id": 307581780800776104,
+			"accountRef": {
+				"href": "/omc/webresources/v1.0/accounts/183037"
+			},
+			"billingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"arBillingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"name": "PIN Bill NOW",
+			"number": "B1-2",
+			"createdDate": "2017-12-01T02:27:30-08:00",
+			"startDate": "2017-11-01T00:00:00-07:00",
+			"endDate": "2017-12-31T02:27:30-08:00",
+			"dueDate": "2017-12-25T02:27:30-08:00",
+			"currentTotal": 0,
+			"previousTotal": 19.98,
+			"subordinateTotal": 0,
+			"due": 0,
+			"received": 0,
+			"transfered": 0,
+			"writeoff": 0,
+			"disputed": 0
+		},
+		{
+			"id": 306596618382266109,
+			"accountRef": {
+				"href": "/omc/webresources/v1.0/accounts/183037"
+			},
+			"billingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"arBillingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"name": "PIN Bill",
+			"number": "B1-1",
+			"createdDate": "2017-09-19T15:04:30-07:00",
+			"startDate": "2017-09-19T00:00:00-07:00",
+			"endDate": "2017-10-19T00:00:00-07:00",
+			"dueDate": "2017-11-18T00:00:00-08:00",
+			"currentTotal": 19.98,
+			"previousTotal": 0,
+			"subordinateTotal": 0,
+			"due": 19.98,
+			"received": 0,
+			"transfered": 0,
+			"writeoff": 0,
+			"disputed": 0
+		},
+		{
+			"id": 307581780800776104,
+			"accountRef": {
+				"href": "/omc/webresources/v1.0/accounts/183037"
+			},
+			"billingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"arBillingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"name": "PIN Bill NOW",
+			"number": "B1-2",
+			"createdDate": "2017-12-01T02:27:30-08:00",
+			"startDate": "2017-11-01T00:00:00-07:00",
+			"endDate": "2017-12-31T02:27:30-08:00",
+			"dueDate": "2017-12-25T02:27:30-08:00",
+			"currentTotal": 0,
+			"previousTotal": 19.98,
+			"subordinateTotal": 0,
+			"due": 0,
+			"received": 0,
+			"transfered": 0,
+			"writeoff": 0,
+			"disputed": 0
+		},
+		{
+			"id": 306596618382266109,
+			"accountRef": {
+				"href": "/omc/webresources/v1.0/accounts/183037"
+			},
+			"billingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"arBillingPreferenceRef": {
+				"href": "/omc/webresources/v1.0/billingPreferences/182013"
+			},
+			"name": "PIN Bill",
+			"number": "B1-1",
+			"createdDate": "2017-09-19T15:04:30-07:00",
+			"startDate": "2017-09-19T00:00:00-07:00",
+			"endDate": "2017-10-19T00:00:00-07:00",
+			"dueDate": "2017-11-18T00:00:00-08:00",
+			"currentTotal": 19.98,
+			"previousTotal": 0,
+			"subordinateTotal": 0,
+			"due": 19.98,
+			"received": 0,
+			"transfered": 0,
+			"writeoff": 0,
+			"disputed": 0
 		}
 	],
 	"describe": [{
