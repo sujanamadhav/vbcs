@@ -19,7 +19,7 @@
 			"startDate": "2017-11-01T00:00:00-07:00",
 			"endDate": "2017-12-31T02:27:30-08:00",
 			"dueDate": "2017-12-25T02:27:30-08:00",
-			"currentTotal": 0,
+			"currentTotal": 32.23,
 			"previousTotal": 19.98,
 			"subordinateTotal": 0,
 			"due": 0,
@@ -46,7 +46,7 @@
 			"endDate": "2017-10-19T00:00:00-07:00",
 			"dueDate": "2017-11-18T00:00:00-08:00",
 			"currentTotal": 19.98,
-			"previousTotal": 0,
+			"previousTotal": 23.11,
 			"subordinateTotal": 0,
 			"due": 19.98,
 			"received": 0,
@@ -55,7 +55,7 @@
 			"disputed": 0
 		},
 		{
-			"id": 307581780800776104,
+			"id": 307581780800776105,
 			"accountRef": {
 				"href": "/omc/webresources/v1.0/accounts/183037"
 			},
@@ -71,8 +71,8 @@
 			"startDate": "2017-11-01T00:00:00-07:00",
 			"endDate": "2017-12-31T02:27:30-08:00",
 			"dueDate": "2017-12-25T02:27:30-08:00",
-			"currentTotal": 0,
-			"previousTotal": 19.98,
+			"currentTotal": 23.11,
+			"previousTotal": 12.12,
 			"subordinateTotal": 0,
 			"due": 0,
 			"received": 0,
@@ -81,7 +81,7 @@
 			"disputed": 0
 		},
 		{
-			"id": 306596618382266109,
+			"id": 306596618382266106,
 			"accountRef": {
 				"href": "/omc/webresources/v1.0/accounts/183037"
 			},
@@ -97,8 +97,8 @@
 			"startDate": "2017-09-19T00:00:00-07:00",
 			"endDate": "2017-10-19T00:00:00-07:00",
 			"dueDate": "2017-11-18T00:00:00-08:00",
-			"currentTotal": 19.98,
-			"previousTotal": 0,
+			"currentTotal": 12.12,
+			"previousTotal": 11.11,
 			"subordinateTotal": 0,
 			"due": 19.98,
 			"received": 0,
@@ -107,7 +107,7 @@
 			"disputed": 0
 		},
 		{
-			"id": 307581780800776104,
+			"id": 307581780800776107,
 			"accountRef": {
 				"href": "/omc/webresources/v1.0/accounts/183037"
 			},
@@ -123,8 +123,8 @@
 			"startDate": "2017-11-01T00:00:00-07:00",
 			"endDate": "2017-12-31T02:27:30-08:00",
 			"dueDate": "2017-12-25T02:27:30-08:00",
-			"currentTotal": 0,
-			"previousTotal": 19.98,
+			"currentTotal": 11.11,
+			"previousTotal": 10.10,
 			"subordinateTotal": 0,
 			"due": 0,
 			"received": 0,
@@ -133,7 +133,7 @@
 			"disputed": 0
 		},
 		{
-			"id": 306596618382266109,
+			"id": 306596618382266108,
 			"accountRef": {
 				"href": "/omc/webresources/v1.0/accounts/183037"
 			},
@@ -149,8 +149,8 @@
 			"startDate": "2017-09-19T00:00:00-07:00",
 			"endDate": "2017-10-19T00:00:00-07:00",
 			"dueDate": "2017-11-18T00:00:00-08:00",
-			"currentTotal": 19.98,
-			"previousTotal": 0,
+			"currentTotal": 10.10,
+			"previousTotal": 09.09,
 			"subordinateTotal": 0,
 			"due": 19.98,
 			"received": 0,
