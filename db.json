@@ -306,39 +306,142 @@
 		}
 	}],
 	"accounts": {
+		"totalResults": 1,
+		"offset": 0,
+		"limit": 20,
+		"count": 1,
+		"hasMore": false,
 		"items": [{
-			"id": 101,
-			"accountNumber": "ACT101",
-			"name": "Carol Parker",
+			"id": "84193",
+			"accountNumber": "rtyui",
+			"name": "PIN Account Object",
 			"type": "consumer",
+			"parentAccountNumber": "rtyui",
 			"currency": "USD",
-			"securityCodeQ": "My dog's name",
-			"securityCodeAns": "Fido",
 			"status": "active",
-			"createdDate": "2017-11-17T18:27:26.620Z",
+			"deactiveOn": "1969-12-31",
+			"createdOn": "2021-09-15",
+			"updatedOn": "2021-11-02",
+			"locale": "en_US",
 			"contacts": [{
-				"id": 1001,
-				"firstName": "Carol",
-				"lastName": "Parker",
-				"salutation": "Your Honor",
-				"email": "carol.parker@oracle.com",
+				"id": "841931",
+				"firstName": "Adam",
+				"lastName": "Ada",
+				"company": "Oracle BRMC",
+				"email": "first.last@my.com",
 				"address": {
-					"streetOne": "H.No:3-5-87/C",
-					"city": "New York",
-					"state": "NY",
-					"postalCode": "10004",
-					"country": "US"
-				},
-				"phones": [{
-					"type": "work",
-					"number": "972-963-2749"
+					"street": "4210 Network Circle",
+					"city": "Santa Clara",
+					"state": "CA",
+					"postalCode": "95054",
+					"country": "USA"
+				}
+			}],
+			"billingPreferences": [{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/billingPreferences/84705"
 				}]
 			}],
-			"billingPreferences": [],
-			"paymentProfiles": [],
+			"paymentProfiles": [{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/paymentProfiles/83169"
+				}]
+			}],
+			"validityPeriod": {
+				"start": "2021-09-15T08:22:02.000+0000"
+			},
+			"notes": [{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/84961"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/85985"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/198458"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/199354"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200058"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200186"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/198150"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/199430"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200326"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/196678"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200006"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200646"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/196902"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/204378"
+				}]
+			}],
+			"contracts": [{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/contracts/199802"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/contracts/197690"
+				}]
+			}, {
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/contracts/198854"
+				}]
+			}],
 			"links": [{
 				"rel": "self",
-				"href": "http://den02bly.us.oracle.com:10010/omc/v1.0/accounts"
+				"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/accounts/84193"
 			}]
 		}]
 	}
