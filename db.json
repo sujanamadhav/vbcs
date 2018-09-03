@@ -5,29 +5,29 @@
 	"socialfeeds": [{
 		"name": "Facebook",
 		"mentions": {
-			"Positive Feedback": 20,
-			"Negative Feedback": 10
+			"positive_feedback": 20,
+			"negative_feedback": 10
 		}
 	},
 	{
 		"name": "Instagram",
 		"mentions": {
-			"Positive Feedback": 20,
-			"Negative Feedback": 10
+			"positive_feedback": 20,
+			"negative_feedback": 10
 		}
 	},
 	{
 		"name": "LinkedIn",
 		"mentions": {
-			"Positive Feedback": 20,
-			"Negative Feedback": 10
+			"positive_feedback": 20,
+			"negative_feedback": 10
 		}
 	},
 	{
 		"name": "Twitter",
 		"mentions": {
-			"Positive Feedback": 20,
-			"Negative Feedback": 10
+			"positive_feedback": 20,
+			"negative_feedback": 10
 		}
 	}],
 	"mybills": [{
