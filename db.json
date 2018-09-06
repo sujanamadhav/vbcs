@@ -5,22 +5,22 @@
 	"socialfeeds": [{
 		"name": "Facebook",
 		"mentions": {
-			"positive_feedback": 20,
-			"negative_feedback": 10
+			"positive_feedback": 10,
+			"negative_feedback": 30
 		}
 	},
 	{
 		"name": "Instagram",
 		"mentions": {
-			"positive_feedback": 20,
+			"positive_feedback": 25,
 			"negative_feedback": 10
 		}
 	},
 	{
 		"name": "LinkedIn",
 		"mentions": {
-			"positive_feedback": 20,
-			"negative_feedback": 10
+			"positive_feedback": 35,
+			"negative_feedback": 20
 		}
 	},
 	{
