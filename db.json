@@ -1,344 +1,1517 @@
 {
-	"profile": {
-		"name": "typicode"
-	},
-	"socialfeeds": [{
-		"name": "Facebook",
-		"mentions": {
-			"positive_feedback": 10,
-			"negative_feedback": 30
-		}
-	},
-	{
-		"name": "Instagram",
-		"mentions": {
-			"positive_feedback": 25,
-			"negative_feedback": 10
-		}
-	},
-	{
-		"name": "LinkedIn",
-		"mentions": {
-			"positive_feedback": 35,
-			"negative_feedback": 20
-		}
-	},
-	{
-		"name": "Twitter",
-		"mentions": {
-			"positive_feedback": 20,
-			"negative_feedback": 10
-		}
-	}],
-	"mybills": [{
-		"id": 307581780800776104,
-		"accountRef": {
-			"href": "/omc/webresources/v1.0/accounts/183037"
-		},
-		"billingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"arBillingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"name": "PIN Bill NOW",
-		"number": "B1-2",
-		"createdDate": "2017-12-01T02:27:30-08:00",
-		"startDate": "2017-11-01T00:00:00-07:00",
-		"endDate": "2017-12-31T02:27:30-08:00",
-		"dueDate": "2017-12-25T02:27:30-08:00",
-		"currentTotal": 32.23,
-		"previousTotal": 19.98,
-		"subordinateTotal": 0,
-		"due": 0,
-		"received": 0,
-		"transfered": 0,
-		"writeoff": 0,
-		"disputed": 0
-	},
-	{
-		"id": 306596618382266109,
-		"accountRef": {
-			"href": "/omc/webresources/v1.0/accounts/183037"
-		},
-		"billingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"arBillingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"name": "PIN Bill",
-		"number": "B1-1",
-		"createdDate": "2017-09-19T15:04:30-07:00",
-		"startDate": "2017-09-19T00:00:00-07:00",
-		"endDate": "2017-10-19T00:00:00-07:00",
-		"dueDate": "2017-11-18T00:00:00-08:00",
-		"currentTotal": 19.98,
-		"previousTotal": 23.11,
-		"subordinateTotal": 0,
-		"due": 19.98,
-		"received": 0,
-		"transfered": 0,
-		"writeoff": 0,
-		"disputed": 0
-	},
-	{
-		"id": 307581780800776105,
-		"accountRef": {
-			"href": "/omc/webresources/v1.0/accounts/183037"
-		},
-		"billingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"arBillingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"name": "PIN Bill NOW",
-		"number": "B1-2",
-		"createdDate": "2017-12-01T02:27:30-08:00",
-		"startDate": "2017-11-01T00:00:00-07:00",
-		"endDate": "2017-12-31T02:27:30-08:00",
-		"dueDate": "2017-12-25T02:27:30-08:00",
-		"currentTotal": 23.11,
-		"previousTotal": 12.12,
-		"subordinateTotal": 0,
-		"due": 0,
-		"received": 0,
-		"transfered": 0,
-		"writeoff": 0,
-		"disputed": 0
-	},
-	{
-		"id": 306596618382266106,
-		"accountRef": {
-			"href": "/omc/webresources/v1.0/accounts/183037"
-		},
-		"billingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"arBillingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"name": "PIN Bill",
-		"number": "B1-1",
-		"createdDate": "2017-09-19T15:04:30-07:00",
-		"startDate": "2017-09-19T00:00:00-07:00",
-		"endDate": "2017-10-19T00:00:00-07:00",
-		"dueDate": "2017-11-18T00:00:00-08:00",
-		"currentTotal": 12.12,
-		"previousTotal": 11.11,
-		"subordinateTotal": 0,
-		"due": 19.98,
-		"received": 0,
-		"transfered": 0,
-		"writeoff": 0,
-		"disputed": 0
-	},
-	{
-		"id": 307581780800776107,
-		"accountRef": {
-			"href": "/omc/webresources/v1.0/accounts/183037"
-		},
-		"billingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"arBillingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"name": "PIN Bill NOW",
-		"number": "B1-2",
-		"createdDate": "2017-12-01T02:27:30-08:00",
-		"startDate": "2017-11-01T00:00:00-07:00",
-		"endDate": "2017-12-31T02:27:30-08:00",
-		"dueDate": "2017-12-25T02:27:30-08:00",
-		"currentTotal": 11.11,
-		"previousTotal": 10.10,
-		"subordinateTotal": 0,
-		"due": 0,
-		"received": 0,
-		"transfered": 0,
-		"writeoff": 0,
-		"disputed": 0
-	},
-	{
-		"id": 306596618382266108,
-		"accountRef": {
-			"href": "/omc/webresources/v1.0/accounts/183037"
-		},
-		"billingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"arBillingPreferenceRef": {
-			"href": "/omc/webresources/v1.0/billingPreferences/182013"
-		},
-		"name": "PIN Bill",
-		"number": "B1-1",
-		"createdDate": "2017-09-19T15:04:30-07:00",
-		"startDate": "2017-09-19T00:00:00-07:00",
-		"endDate": "2017-10-19T00:00:00-07:00",
-		"dueDate": "2017-11-18T00:00:00-08:00",
-		"currentTotal": 10.10,
-		"previousTotal": 10.08,
-		"subordinateTotal": 0,
-		"due": 19.98,
-		"received": 0,
-		"transfered": 0,
-		"writeoff": 0,
-		"disputed": 0
-	}],
-	"accounts": {
-		"totalResults": 1,
-		"offset": 0,
-		"limit": 20,
-		"count": 1,
-		"hasMore": false,
-		"items": [{
-			"id": "84193",
-			"accountNumber": "rtyui",
-			"name": "PIN Account Object",
-			"type": "consumer",
-			"parentAccountNumber": "rtyui",
-			"currency": "USD",
-			"status": "active",
-			"deactiveOn": "1969-12-31",
-			"createdOn": "2021-09-15",
-			"updatedOn": "2021-11-02",
-			"locale": "en_US",
-			"contacts": [{
-				"id": "841931",
-				"firstName": "Adam",
-				"lastName": "Ada",
-				"company": "Oracle BRMC",
-				"email": "first.last@my.com",
-				"address": {
-					"street": "4210 Network Circle",
-					"city": "Santa Clara",
-					"state": "CA",
-					"postalCode": "95054",
-					"country": "USA"
-				}
-			}],
-			"billingPreferences": [{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/billingPreferences/84705"
-				}]
-			}],
-			"paymentProfiles": [{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/paymentProfiles/83169"
-				}]
-			}],
-			"validityPeriod": {
-				"start": "2021-09-15T08:22:02.000+0000"
-			},
-			"notes": [{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/84961"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/85985"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/198458"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/199354"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200058"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200186"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/198150"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/199430"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200326"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/196678"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200006"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200646"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/196902"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/204378"
-				}]
-			}],
-			"contracts": [{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/contracts/199802"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/contracts/197690"
-				}]
-			},
-			{
-				"links": [{
-					"rel": "self",
-					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/contracts/198854"
-				}]
-			}],
-			"links": [{
-				"rel": "self",
-				"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/accounts/84193"
-			}]
-		}]
-	}
+   "timezones":[
+      {
+         "value":"Pacific/Midway",
+         "label":"(UTC-11:00) Midway - Samoa Time (ST)"
+      },
+      {
+         "value":"Pacific/Pago_Pago",
+         "label":"(UTC-11:00) Pago Pago - Samoa Time (ST)"
+      },
+      {
+         "value":"Pacific/Honolulu",
+         "label":"(UTC-10:00) Honolulu - Hawaii Time (HT)"
+      },
+      {
+         "value":"America/Anchorage",
+         "label":"(UTC-09:00) Alaska Time (AKT)"
+      },
+      {
+         "value":"America/Vancouver",
+         "label":"(UTC-08:00) Vancouver - Pacific Time (Canada) (PT)"
+      },
+      {
+         "value":"America/Tijuana",
+         "label":"(UTC-08:00) Tijuana - Pacific Time (PT)"
+      },
+      {
+         "value":"America/Los_Angeles",
+         "label":"(UTC-08:00) Los Angeles - Pacific Time (PT)"
+      },
+      {
+         "value":"America/Phoenix",
+         "label":"(UTC-07:00) Phoenix - Mountain Time (MT)"
+      },
+      {
+         "value":"America/Edmonton",
+         "label":"(UTC-07:00) Mountain Time, Canada (MT)"
+      },
+      {
+         "value":"America/Chihuahua",
+         "label":"(UTC-07:00) Chihuahua - Mexico Time 2 (MT)"
+      },
+      {
+         "value":"America/Mazatlan",
+         "label":"(UTC-07:00) Mexico Time 2 (MT)"
+      },
+      {
+         "value":"America/Denver",
+         "label":"(UTC-07:00) Denver - Mountain Time (MT)"
+      },
+      {
+         "value":"America/Winnipeg",
+         "label":"(UTC-06:00) Central Time (Canada) (CT)"
+      },
+      {
+         "value":"America/Costa_Rica",
+         "label":"(UTC-06:00) Costa Rica - Central America Time (CT)"
+      },
+      {
+         "value":"America/El_Salvador",
+         "label":"(UTC-06:00) El Salvador - Central America Time (CT)"
+      },
+      {
+         "value":"America/Guatemala",
+         "label":"(UTC-06:00) Guatemala - Central America Time (CT)"
+      },
+      {
+         "value":"America/Managua",
+         "label":"(UTC-06:00) Managua - Central America Time (CT)"
+      },
+      {
+         "value":"America/Mexico_City",
+         "label":"(UTC-06:00) Mexico City - Mexico Time (MT)"
+      },
+      {
+         "value":"America/Regina",
+         "label":"(UTC-06:00) Regina - Central Time (CT)"
+      },
+      {
+         "value":"America/Chicago",
+         "label":"(UTC-06:00) Chicago - Central Time (CT)"
+      },
+      {
+         "value":"America/Bogota",
+         "label":"(UTC-05:00) Bogota - Colombia Time (COT)"
+      },
+      {
+         "value":"America/Montreal",
+         "label":"(UTC-05:00) Montreal - Eastern Time (Canada) (ET)"
+      },
+      {
+         "value":"America/Indiana/Indianapolis",
+         "label":"(UTC-05:00) Indianapolis, Indiana - Eastern Time (ET)"
+      },
+      {
+         "value":"America/Guayaquil",
+         "label":"(UTC-05:00) Guayaquil - Ecuador Time (ECT)"
+      },
+      {
+         "value":"America/Lima",
+         "label":"(UTC-05:00) Lima - Peru Time (PET)"
+      },
+      {
+         "value":"America/Panama",
+         "label":"(UTC-05:00) Panama - Eastern Time (ET)"
+      },
+      {
+         "value":"America/New_York",
+         "label":"(UTC-05:00) New York - Eastern Time (ET)"
+      },
+      {
+         "value":"America/Caracas",
+         "label":"(UTC-04:30) Caracas - Venezuela Time (VET)"
+      },
+      {
+         "value":"America/Halifax",
+         "label":"(UTC-04:00) Canada Atlantic Time (AT)"
+      },
+      {
+         "value":"America/Puerto_Rico",
+         "label":"(UTC-04:00) Puerto Rico - Atlantic Time (AT)"
+      },
+      {
+         "value":"America/Santiago",
+         "label":"(UTC-04:00) Santiago - Chile Time (CLT)"
+      },
+      {
+         "value":"America/St_Johns",
+         "label":"(UTC-03:30) St Johns - Newfoundland Time (NT)"
+      },
+      {
+         "value":"America/Argentina/Buenos_Aires",
+         "label":"(UTC-03:00) Buenos Aires - Argentine Time (ART)"
+      },
+      {
+         "value":"America/Godthab",
+         "label":"(UTC-03:00) Godthab - Western Greenland Time (WGT)"
+      },
+      {
+         "value":"America/Sao_Paulo",
+         "label":"(UTC-03:00) Sao Paulo - Brasilia Time (BRT)"
+      },
+      {
+         "value":"America/Noronha",
+         "label":"(UTC-02:00) Noronha - Fernando de Noronha Time (FNT)"
+      },
+      {
+         "value":"Atlantic/Azores",
+         "label":"(UTC-01:00) Azores - Azores Time (AZOT)"
+      },
+      {
+         "value":"Atlantic/Cape_Verde",
+         "label":"(UTC-01:00) Cape Verde - Cape Verde Time (CVT)"
+      },
+      {
+         "value":"Africa/Casablanca",
+         "label":"(UTC+00:00) Casablanca - Western European Time (WET)"
+      },
+      {
+         "value":"Europe/Dublin",
+         "label":"(UTC+00:00) Dublin - Greenwich Mean Time (GMT)"
+      },
+      {
+         "value":"Europe/Lisbon",
+         "label":"(UTC+00:00) Lisbon - Western European Time (WET)"
+      },
+      {
+         "value":"Europe/London",
+         "label":"(UTC+00:00) London - Greenwich Mean Time (GMT)"
+      },
+      {
+         "value":"Africa/Nouakchott",
+         "label":"(UTC+00:00) Nouakchott - Greenwich Mean Time (GMT)"
+      },
+      {
+         "value":"Atlantic/Reykjavik",
+         "label":"(UTC+00:00) Reykjavik - Greenwich Mean Time (GMT)"
+      },
+      {
+         "value":"Etc/UTC",
+         "label":"(UTC+00:00) Coordinated Universal Time (UTC)"
+      },
+      {
+         "value":"Africa/Algiers",
+         "label":"(UTC+01:00) Algiers - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Amsterdam",
+         "label":"(UTC+01:00) Amsterdam - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Belgrade",
+         "label":"(UTC+01:00) Belgrade - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Berlin",
+         "label":"(UTC+01:00) Berlin - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Brussels",
+         "label":"(UTC+01:00) Brussels - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Budapest",
+         "label":"(UTC+01:00) Budapest - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Copenhagen",
+         "label":"(UTC+01:00) Copenhagen - Central European Time (CET)"
+      },
+      {
+         "value":"Africa/Lagos",
+         "label":"(UTC+01:00) Lagos - Western African Time (WAT)"
+      },
+      {
+         "value":"Europe/Luxembourg",
+         "label":"(UTC+01:00) Luxembourg - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Madrid",
+         "label":"(UTC+01:00) Madrid - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Oslo",
+         "label":"(UTC+01:00) Oslo - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Paris",
+         "label":"(UTC+01:00) Paris - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Prague",
+         "label":"(UTC+01:00) Prague - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Rome",
+         "label":"(UTC+01:00) Rome - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Stockholm",
+         "label":"(UTC+01:00) Stockholm - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Tirane",
+         "label":"(UTC+01:00) Tirane - Central European Time (CET)"
+      },
+      {
+         "value":"Africa/Tunis",
+         "label":"(UTC+01:00) Tunis - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Vienna",
+         "label":"(UTC+01:00) Vienna - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Warsaw",
+         "label":"(UTC+01:00) Warsaw - Central European Time (CET)"
+      },
+      {
+         "value":"Europe/Zurich",
+         "label":"(UTC+01:00) Zurich - Central European Time (CET)"
+      },
+      {
+         "value":"Asia/Amman",
+         "label":"(UTC+02:00) Amman - Eastern European Time (EET)"
+      },
+      {
+         "value":"Europe/Athens",
+         "label":"(UTC+02:00) Athens - Eastern European Time (EET)"
+      },
+      {
+         "value":"Asia/Beirut",
+         "label":"(UTC+02:00) Beirut - Eastern European Time (EET)"
+      },
+      {
+         "value":"Europe/Bucharest",
+         "label":"(UTC+02:00) Bucharest - Eastern European Time (EET)"
+      },
+      {
+         "value":"Africa/Cairo",
+         "label":"(UTC+02:00) Cairo - Egypt Time (ET)"
+      },
+      {
+         "value":"Asia/Damascus",
+         "label":"(UTC+02:00) Damascus - Eastern European Time (EET)"
+      },
+      {
+         "value":"Africa/Harare",
+         "label":"(UTC+02:00) Harare - Central African Time (CAT)"
+      },
+      {
+         "value":"Europe/Helsinki",
+         "label":"(UTC+02:00) Helsinki - Eastern European Time (EET)"
+      },
+      {
+         "value":"Europe/Istanbul",
+         "label":"(UTC+02:00) Istanbul - Eastern European Time (EET)"
+      },
+      {
+         "value":"Asia/Jerusalem",
+         "label":"(UTC+02:00) Jerusalem - Israel Time (IT)"
+      },
+      {
+         "value":"Africa/Johannesburg",
+         "label":"(UTC+02:00) Johannesburg - South Africa Time (SAT)"
+      },
+      {
+         "value":"Europe/Kiev",
+         "label":"(UTC+02:00) Kiev - Eastern European Time (EET)"
+      },
+      {
+         "value":"Asia/Nicosia",
+         "label":"(UTC+02:00) Nicosia - Eastern European Time (EET)"
+      },
+      {
+         "value":"Europe/Riga",
+         "label":"(UTC+02:00) Riga - Eastern European Time (EET)"
+      },
+      {
+         "value":"Europe/Sofia",
+         "label":"(UTC+02:00) Sofia - Eastern European Time (EET)"
+      },
+      {
+         "value":"Europe/Tallinn",
+         "label":"(UTC+02:00) Tallinn - Eastern European Time (EET)"
+      },
+      {
+         "value":"Africa/Tripoli",
+         "label":"(UTC+02:00) Tripoli - Eastern European Time (EET)"
+      },
+      {
+         "value":"Europe/Vilnius",
+         "label":"(UTC+02:00) Vilnius - Eastern European Time (EET)"
+      },
+      {
+         "value":"Asia/Aden",
+         "label":"(UTC+03:00) Aden - Arabia Time (AT)"
+      },
+      {
+         "value":"Asia/Baghdad",
+         "label":"(UTC+03:00) Baghdad - Arabia Time (AT)"
+      },
+      {
+         "value":"Asia/Bahrain",
+         "label":"(UTC+03:00) Bahrain - Arabia Time (AT)"
+      },
+      {
+         "value":"Africa/Djibouti",
+         "label":"(UTC+03:00) Djibouti - Eastern African Time (EAT)"
+      },
+      {
+         "value":"Africa/Khartoum",
+         "label":"(UTC+03:00) Khartoum - Eastern African Time (EAT)"
+      },
+      {
+         "value":"Asia/Kuwait",
+         "label":"(UTC+03:00) Kuwait - Arabia Time (AT)"
+      },
+      {
+         "value":"Africa/Mogadishu",
+         "label":"(UTC+03:00) Mogadishu - Eastern African Time (EAT)"
+      },
+      {
+         "value":"Africa/Nairobi",
+         "label":"(UTC+03:00) Nairobi - Eastern African Time (EAT)"
+      },
+      {
+         "value":"Asia/Qatar",
+         "label":"(UTC+03:00) Qatar - Arabia Time (AT)"
+      },
+      {
+         "value":"Asia/Riyadh",
+         "label":"(UTC+03:00) Riyadh - Arabia Time (AT)"
+      },
+      {
+         "value":"Asia/Tehran",
+         "label":"(UTC+03:30) Tehran - Iran Time (IRT)"
+      },
+      {
+         "value":"Asia/Baku",
+         "label":"(UTC+04:00) Baku - Azerbaijan Time (AZT)"
+      },
+      {
+         "value":"Asia/Dubai",
+         "label":"(UTC+04:00) Dubai - Gulf Time (GT)"
+      },
+      {
+         "value":"Europe/Moscow",
+         "label":"(UTC+03:00) Moscow - Moscow Time (MSK)"
+      },
+      {
+         "value":"Asia/Muscat",
+         "label":"(UTC+04:00) Muscat - Gulf Time (GT)"
+      },
+      {
+         "value":"Asia/Kabul",
+         "label":"(UTC+04:30) Kabul - Afghanistan Time (AFT)"
+      },
+      {
+         "value":"Asia/Karachi",
+         "label":"(UTC+05:00) Karachi - Pakistan Time (PKT)"
+      },
+      {
+         "value":"Asia/Tashkent",
+         "label":"(UTC+05:00) Tashkent - Uzbekistan Time (UZT)"
+      },
+      {
+         "value":"Asia/Kolkata",
+         "label":"(UTC+05:30) Kolkata - India Time (IT)"
+      },
+      {
+         "value":"Asia/Colombo",
+         "label":"(UTC+05:30) Colombo - Sri Lanka Time (LKT)"
+      },
+      {
+         "value":"Asia/Kathmandu",
+         "label":"(UTC+05:45) Kathmandu - Nepal Time (NPT)"
+      },
+      {
+         "value":"Asia/Almaty",
+         "label":"(UTC+06:00) Almaty - Alma-Ata Time (ALMT)"
+      },
+      {
+         "value":"Asia/Dhaka",
+         "label":"(UTC+06:00) Dhaka - Bangladesh Time (BDT)"
+      },
+      {
+         "value":"Asia/Yekaterinburg",
+         "label":"(UTC+05:00) Yekaterinburg - Yekaterinburg Time (YEKT)"
+      },
+      {
+         "value":"Asia/Rangoon",
+         "label":"(UTC+06:30) Rangoon - Myanmar Time (MMT)"
+      },
+      {
+         "value":"Asia/Bangkok",
+         "label":"(UTC+07:00) Bangkok - Indochina Time (ICT)"
+      },
+      {
+         "value":"Asia/Ho_Chi_Minh",
+         "label":"(UTC+07:00) Ho Chi Minh - Indochina Time (ICT)"
+      },
+      {
+         "value":"Asia/Jakarta",
+         "label":"(UTC+07:00) Jakarta - West Indonesia Time (WIT)"
+      },
+      {
+         "value":"Asia/Novosibirsk",
+         "label":"(UTC+06:00) Novosibirsk - Novosibirsk Time (NOVT)"
+      },
+      {
+         "value":"Asia/Shanghai",
+         "label":"(UTC+08:00) Shanghai - China Time (CT)"
+      },
+      {
+         "value":"Asia/Hong_Kong",
+         "label":"(UTC+08:00) Hong Kong - Hong Kong Time (HKT)"
+      },
+      {
+         "value":"Asia/Kuala_Lumpur",
+         "label":"(UTC+08:00) Kuala Lumpur - Malaysia Time (MYT)"
+      },
+      {
+         "value":"Asia/Krasnoyarsk",
+         "label":"(UTC+07:00) Krasnoyarsk - Krasnoyarsk Time (KRAT)"
+      },
+      {
+         "value":"Asia/Manila",
+         "label":"(UTC+08:00) Manila - Philippines Time (PHT)"
+      },
+      {
+         "value":"Australia/Perth",
+         "label":"(UTC+08:00) Perth - Western Time (Australia) (WT)"
+      },
+      {
+         "value":"Asia/Singapore",
+         "label":"(UTC+08:00) Singapore - Singapore Time (SGT)"
+      },
+      {
+         "value":"Asia/Taipei",
+         "label":"(UTC+08:00) Taipei - China Time (CT)"
+      },
+      {
+         "value":"Asia/Irkutsk",
+         "label":"(UTC+08:00) Irkutsk - Irkutsk Time (IRKT)"
+      },
+      {
+         "value":"Asia/Seoul",
+         "label":"(UTC+09:00) Seoul - Korea Time (KT)"
+      },
+      {
+         "value":"Asia/Tokyo",
+         "label":"(UTC+09:00) Tokyo - Japan Time (JT)"
+      },
+      {
+         "value":"Australia/Adelaide",
+         "label":"(UTC+09:30) Adelaide - Central Time (South Australia) (CT)"
+      },
+      {
+         "value":"Australia/Darwin",
+         "label":"(UTC+09:30) Darwin - Central Time (Northern Territory) (CT)"
+      },
+      {
+         "value":"Australia/Brisbane",
+         "label":"(UTC+10:00) Brisbane - Eastern Time (Queensland) (ET)"
+      },
+      {
+         "value":"Pacific/Guam",
+         "label":"(UTC+10:00) Guam - Chamorro Time (ChT)"
+      },
+      {
+         "value":"Australia/Hobart",
+         "label":"(UTC+10:00) Hobart - Eastern Time (Tasmania) (ET)"
+      },
+      {
+         "value":"Asia/Yakutsk",
+         "label":"(UTC+09:00) Yakutsk - Yakutsk Time (YAKT)"
+      },
+      {
+         "value":"Australia/Sydney",
+         "label":"(UTC+10:00) Sydney - Eastern Time (New South Wales) (ET)"
+      },
+      {
+         "value":"Asia/Vladivostok",
+         "label":"(UTC+10:00) Vladivostok - Vladivostok Time (VLAT)"
+      },
+      {
+         "value":"Asia/Magadan",
+         "label":"(UTC+11:00) Magadan - Magadan Time (MAGT)"
+      },
+      {
+         "value":"Pacific/Auckland",
+         "label":"(UTC+12:00) Auckland - New Zealand Time (NZT)"
+      },
+      {
+         "value":"Etc/GMT-12",
+         "label":"(UTC+12:00) Dateline Standard Time (UTC+12:00)"
+      },
+      {
+         "value":"Pacific/Fiji",
+         "label":"(UTC+12:00) Fiji - Fiji Time (FJT)"
+      },
+      {
+         "value":"Asia/Kamchatka",
+         "label":"(UTC+12:00) Kamchatka - Petropavlovsk-Kamchatski Time (PETT)"
+      },
+      {
+         "value":"Pacific/Tongatapu",
+         "label":"(UTC+13:00) Tongatapu - Tonga Time (TOT)"
+      }
+   ],
+   "timezoneId":"Atlantic/Azores",
+   "timezoneIdDefault":"Atlantic/Azores",
+   "displayName":"Administrator ",
+   "imageSizeLimit":5242880,
+   "email":null,
+   "emailEnabled":0,
+   "emailEnabledDefault":false,
+   "pmnotificationEnable":false,
+   "pmnotificationEnableDefault":false,
+   "notifyJobStatusChange":false,
+   "notifyJobStatusChangeDefault":false,
+   "defaultNotifications":"N",
+   "aliastblId":"14",
+   "showAlias":"2",
+   "aliastblIdDefault":"14",
+   "showAliasDefault":"2",
+   "defaultAlias":"N",
+   "showPUAliasStr":"N",
+   "showNotStartedStr":"N",
+   "showPuNotifInEmail":"N",
+   "showPUAliasStrDefault":"N",
+   "showNotStartedStrDefault":"N",
+   "showPuNotifInEmailDefault":"N",
+   "defaultApprovals":"N",
+   "isOooValid":false,
+   "outOfOffice":false,
+   "outOfOfficeStr":"N",
+   "ownerId":"",
+   "annotationText":null,
+   "isAdmin":true,
+   "thousandSepId":"0",
+   "decimalSepId":"0",
+   "negativeSignId":"0",
+   "negativeColorId":"0",
+   "thousandSepIdDefault":"0",
+   "decimalSepIdDefault":"0",
+   "negativeSignIdDefault":"0",
+   "negativeColorIdDefault":"0",
+   "defaultNumFormat":"N",
+   "defaultPageOpt":"N",
+   "pageSearch":"100",
+   "pageDisplayId":"0",
+   "pageDisplayIdDefault":"0",
+   "pageSearchDefault":"100",
+   "defaultOtherOpt":"N",
+   "showConsolOp":"1000",
+   "dateFormat":"AutoDetect",
+   "dateFormatDefault":"AutoDetect",
+   "isHsfEnabled":false,
+   "isMultiCurrencyApp":true,
+   "isSimpleCurrencyApp":true,
+   "isSCAppPrefOptionEnabled":false,
+   "currencyDims":[
+      {
+         "value":"USD_Reporting",
+         "label":"USD_Reporting"
+      },
+      {
+         "value":"CAD_Reporting",
+         "label":"CAD_Reporting"
+      },
+      {
+         "value":"EUR_Reporting",
+         "label":"EUR_Reporting"
+      },
+      {
+         "value":"GBP_Reporting",
+         "label":"GBP_Reporting"
+      },
+      {
+         "value":"SGD_Reporting",
+         "label":"SGD_Reporting"
+      },
+      {
+         "value":"BRL_Reporting",
+         "label":"BRL_Reporting"
+      },
+      {
+         "value":"TWD_Reporting",
+         "label":"TWD_Reporting"
+      },
+      {
+         "value":"UAH_Reporting",
+         "label":"UAH_Reporting"
+      },
+      {
+         "value":"CZK_Reporting",
+         "label":"CZK_Reporting"
+      },
+      {
+         "value":"THB_Reporting",
+         "label":"THB_Reporting"
+      },
+      {
+         "value":"ARS_Reporting",
+         "label":"ARS_Reporting"
+      }
+   ],
+   "reportingCurrency":"USD",
+   "formatData":"Y",
+   "limitPrecision":"",
+   "showCellNote":"",
+   "showAttrib":"Y",
+   "showCurrency":"Y",
+   "supDetail":"",
+   "supDetailOrder":"1",
+   "pageSize":"A4",
+   "fit":"2",
+   "flow":"0",
+   "formName":"Y",
+   "repColHeader":"Y",
+   "repRowHeader":"Y",
+   "printPOV":"Y",
+   "printGridLine":"Y",
+   "printFooter":"Y",
+   "bw":"N",
+   "layout":"0",
+   "paperSizeOptions":[
+      {
+         "value":"Letter",
+         "label":"Letter"
+      },
+      {
+         "value":"LetterSmall",
+         "label":"LetterSmall"
+      },
+      {
+         "value":"Tabloid",
+         "label":"Tabloid"
+      },
+      {
+         "value":"Ledger",
+         "label":"Ledger"
+      },
+      {
+         "value":"Legal",
+         "label":"Legal"
+      },
+      {
+         "value":"Statement",
+         "label":"Statement"
+      },
+      {
+         "value":"Executive",
+         "label":"Executive"
+      },
+      {
+         "value":"A0",
+         "label":"A0"
+      },
+      {
+         "value":"A1",
+         "label":"A1"
+      },
+      {
+         "value":"A2",
+         "label":"A2"
+      },
+      {
+         "value":"A3",
+         "label":"A3"
+      },
+      {
+         "value":"A4",
+         "label":"A4"
+      },
+      {
+         "value":"A4Small",
+         "label":"A4Small"
+      },
+      {
+         "value":"A5",
+         "label":"A5"
+      },
+      {
+         "value":"B4",
+         "label":"B4"
+      },
+      {
+         "value":"B5",
+         "label":"B5"
+      },
+      {
+         "value":"Folio",
+         "label":"Folio"
+      },
+      {
+         "value":"Quarto",
+         "label":"Quarto"
+      },
+      {
+         "value":"10x14",
+         "label":"10x14"
+      }
+   ],
+   "LABEL_NORMAL_ORDER":"Normal Order",
+   "LABEL_REVERSE_ORDER":"Reverse Order",
+   "aliasTables":[
+      {
+         "value":"14",
+         "label":"Default"
+      }
+   ],
+   "LABEL_PREFERENCES":"Preferences",
+   "ACTION_SAVE":"Save",
+   "LABEL_CANCEL":"Cancel",
+   "LABEL_PLANNING":"Planning",
+   "BUTTON_RESET":"Reset",
+   "LABEL_USER_PREF_ADHOC":"Ad Hoc Options",
+   "LABEL_DEFAULT":"Default",
+   "DISPLAY_MEMBER_NAME":"Member Name",
+   "DISPLAY_MEMBER_ALIAS":"Alias",
+   "DISPLAY_MEMBER_NAME_ALIAS":"Member Name:Alias",
+   "DISPLAY_MEMBER_ALIAS_NAME":"Alias:Member Name",
+   "LABEL_USE_USER_PRE_DEFAULT":"Use Administrator's Settings",
+   "LABEL_SHOW_ALIAS":"Member Name/Alias Display",
+   "LABEL_SELECT_ACTION":"Select Action",
+   "MSG_SELECT_OWNER":"Select Owner",
+   "LABEL_DISPLAY":"Display",
+   "LABEL_SETTINGS":"Settings",
+   "LABEL_USER_PREF_GENERAL_TAB":"General",
+   "APPEARANCE":"Appearance",
+   "LABEL_USER_PREF_PRINTING_TAB":"Form Printing",
+   "LABEL_USER_PREF_USER_VARS":"User Variables",
+   "LABEL_PROFILE":"Profile",
+   "LABEL_SIMPLIFIED_INTERFACE":"Simplified Interface",
+   "LABEL_WORKSPACE_INTERFACE":"Standard Interface",
+   "LABEL_UI_DISPLAY":"UI Display",
+   "LABEL_DATA_OPTIONS":"Number Formatting",
+   "LABEL_PROCESS_MANAGEMENT":"Approvals",
+   "LABEL_NEGATIVE_STYLE":"Negative Sign",
+   "LABEL_USER_PREF_NUMBER_FORMAT":"Number Format",
+   "LABEL_NEGATIVE_COLOR":"Negative Color",
+   "LABEL_THOUSANDS_SEPARATOR":"Thousands Separator",
+   "LABEL_DECIMAL_SEPARATOR":"Decimal Separator",
+   "LABEL_NEGATIVE_NORMAL":"Prefixed Minus",
+   "LABEL_NEGATIVE_REVERSE":"Suffixed Minus",
+   "LABEL_NEGATIVE_PARENS":"Parentheses",
+   "LABEL_CURRENCY_SETTING":"Currency Setting",
+   "LABEL_BLACK":"Black",
+   "LABEL_RED":"Red",
+   "LABEL_COMMA":"Comma",
+   "LABEL_POINT":"Dot",
+   "LABEL_SPACE":"Space",
+   "LABEL_NONE":"None",
+   "LABEL_PAGE_SETTINGS":"Page Options",
+   "LABEL_ENABLE_MRU":"Remember selected page members",
+   "LABEL_PAGE_SEARCH":"Allow Search When Number of Pages Exceeds",
+   "LABEL_USER_PREF_IND_MBRS":"Indentation of Members",
+   "LABEL_PAGE_DISPLAY_LEAF":"Indent level 0 members only",
+   "LABEL_PAGE_DISPLAY_HIERARCHY":"Indent based on hierarchy",
+   "LABEL_PAGE_DISPLAY_FLAT":"Do not indent",
+   "LABEL_MISC_SETTINGS":"Other Options",
+   "LABEL_DATE_FORMAT":"Date Format",
+   "LABEL_MANAGE_CUBE_REFRESH":"Refresh Database Options",
+   "LABEL_DATE_FORMAT_AS_AUTO_DETECT":"Automatically Detect",
+   "LABEL_DATE_FORMAT_AS_MM_DD_YYYY":"MM/DD/YYYY",
+   "LABEL_DATE_FORMAT_AS_DD_MM_YYYY":"DD/MM/YYYY",
+   "LABEL_DATE_FORMAT_AS_YYYY_MM_DD":"YYYY/MM/DD",
+   "LABEL_DATA_FORM_SETTING":"Form Setting",
+   "LABEL_YES":"Yes",
+   "LABEL_NO":"No",
+   "MSG_OPTIONS":"Options",
+   "LABEL_FORMAT_DATA":"Format Data",
+   "LABEL_APPLY_PRECISION":"Apply Precision",
+   "LABEL_INLCUDE_SUPPORTING_DETAIL":"Include Supporting Detail",
+   "LABEL_SHOW_ACCOUNT_DESCRIPTIONS":"Show account annotations",
+   "LABEL_SHOW_CELL_NOTES":"Show Comments",
+   "LABEL_SHOW_ATTRIBUTE_MEMBERS":"Show attribute members",
+   "LABEL_SHOW_CURRENCY_TAGS":"Show Currency Codes",
+   "LABEL_EMAIL_ADDRESS":"Email Address",
+   "LABEL_NOTIFICATIONS":"Notifications",
+   "LABEL_ALIAS_TABLE":"Alias Table",
+   "LABEL_USER_PREF_DISPLAY_ALIASES":"Display Aliases",
+   "LABEL_USER_PREF_SHOW_NOT_STARTED_PUS":"Show Not Started Approval Units",
+   "LABEL_OUT_OF_OFFICE_ASSISTANT":"Out of Office Assistant",
+   "LABEL_USER_PREF_OUT_OF_OFFICE":"I am currently out of the office",
+   "LABEL_TASK_LISTS":"Task Lists",
+   "LABEL_APPROVALS":"Approvals",
+   "LABEL_JOB_CONSOLE":"Job Console",
+   "LABEL_ALIAS_SETTING":"Alias Setting",
+   "LABEL_PRINT_PAGE_SETTING":"Page Settings",
+   "LABEL_USER_PREF_PROFILE_IMG":"Profile Image",
+   "LABEL_USER_IMAGE":"User Image",
+   "SCHED_TIMEZONE":"Time Zone",
+   "THEME_DARK_BLUE":"Dark Blue",
+   "THEME_CRISP_GREEN":"Crisp Green",
+   "THEME_DARK_GREY":"Dark Grey",
+   "THEME_LIGHT_BLUE":"Light Blue",
+   "THEME_BRIGHT_BLUE":"Bright Blue",
+   "THEME_STEEL_GREY":"Steel Grey",
+   "APPERANCE_SUB_HEADER_TEXT":"Configure default appearance options for all users.",
+   "LOGO_PLACEHOLDER":"http://loremipsumdolorsitamet.com",
+   "WM_URL":"Background Image  URL",
+   "LABEL_USER_PREF_EMAIL_PLACE_HOLDER":"name@email.com",
+   "THEME":"Theme",
+   "LOGO_URL":"Logo Image URL",
+   "LABEL_USER_PREF_IMAGE_DESC_TEXT":"Supported formats: .jpg, .png, and .gif.",
+   "APPERANCE_LOGO_TEXT":"Replace the default Oracle logo with your own. Supported formats: .jpg, .png, and .gif.",
+   "APPERANCE_BG_IMG_TEXT":"Replace the default watermark which appears in the background. Supported formats: .jpg, .png, and .gif.",
+   "LABEL_SHAPE":"Shape",
+   "SHAPE_OBLONG":"Oblong",
+   "SHAPE_ROUND":"Round",
+   "SHAPE_SQUARE":"Square",
+   "LABEL_PRINT_PAPER_SIZE2":"Paper Size",
+   "LABEL_BLACK_WHITE":"Black & White",
+   "LABEL_PRINT_LAYOUT":"Layout",
+   "LABEL_REPORT_LANDSCAPE":"Landscape",
+   "LABEL_REPORT_PORTRAIT":"Portrait",
+   "LABEL_PRINT_FITTO":"Fit To",
+   "LABEL_PRINT_FITTO_PAGE":"Page",
+   "LABEL_PRINT_FITTO_WIDTH":"Width",
+   "LABEL_PRINT_FITTO_NONE":"None",
+   "LABEL_PRINT_FLOW":"Flow",
+   "LABEL_PRINT_DOWN_ACROSS":"Down Then Across",
+   "LABEL_PRINT_ACROSS_DOWN":"Across Then Down",
+   "LABEL_INCLUDE_ACCOUNT_DESCRIPTIONS":"Include account annotations",
+   "LABEL_INCLUDE_COMMENTS":"Include comments",
+   "LABEL_INCLUDE_ATTRIB":"Include attribute members",
+   "LABEL_INCLUDE_CURRENCY":"Include currency codes",
+   "LABEL_PRINT_FORM_NAME":"Print Form Name",
+   "LABEL_PRINT_REPEAT_COL_HEADERS":"Repeat Column Headers",
+   "LABEL_PRINT_REPEAT_ROW_HEADERS":"Repeat Row Headers",
+   "LABEL_PRINT_POV":"Print POV/Page",
+   "LABEL_PRINT_GRID_LINES":"Print Grid Lines",
+   "LABEL_PRINT_FOOTER":"Print Footer",
+   "LABEL_DIMENSION":"Dimension",
+   "LABEL_USER_VARIABLE":"User Variable",
+   "LABEL_USER_VARIABLE_VALUE":"Selected Member",
+   "LABEL_USER_PREF_GENERAL_TAB_DESC":"Provide a photo and display name to help your colleagues recognize you in the system.",
+   "LABEL_USER_PREF_MEM_SELECTOR_LABEL":"Member selector",
+   "LABEL_USER_PREF_FR_HDR":"Financial Reporting",
+   "LABEL_FORMAT_PDF":"PDF",
+   "LABEL_FORMAT_HTML":"HTML",
+   "LABEL_USER_PREF_FR_USER_POV":"User POV Preview",
+   "LABEL_USER_PREF_FR_ON":"On",
+   "LABEL_USER_PREF_FR_OFF":"Off",
+   "LABEL_USER_PREF_FR_QUERY_READY":"Query-Ready Export",
+   "LABEL_USER_PREF_FR_EXPORT_MODE":"Export Mode",
+   "LABEL_USER_PREF_FR_EXPORT_MODE_SMARTVIEW":"Smart View",
+   "LABEL_USER_PREF_FR_EXPORT_MODE_EXCELGRID":"Excel Grid",
+   "LABEL_USER_PREF_FR_EXPORT_MODE_DISABLED":"Disabled",
+   "LABEL_USER_PREF_FR_EXPORT_TO":"Export To",
+   "LABEL_USER_PREF_FR_EXPORT_TO_NEW_WORKSHEET":"New Worksheet",
+   "LABEL_USER_PREF_FR_EXPORT_TO_NEW_WORKBOOK":"New Workbook",
+   "LABEL_USER_PREF_FR_EXPORT_AS":"Export As",
+   "LABEL_USER_PREF_FR_EXPORT_AS_IMG":"Image",
+   "LABEL_USER_PREF_FR_EXPORT_AS_DOC":"Document(.docx)",
+   "LABEL_USER_PREF_FR_MERGE_PROMPTS":"Merge Equivalent Prompts",
+   "LABEL_USER_PREF_FR_PRINT_DETAILS":"Annotation Print Details",
+   "LABEL_USER_PREF_FR_DEF_PREVIEW":"Default Preview Mode",
+   "LABEL_USER_PREF_FR_THOUSAND_SEP_UNDERSCORE":"Underscore",
+   "LABEL_USER_PREF_FR_THOUSAND_SEP_SPACE":"Space",
+   "LABEL_USER_PREF_FR_CHOICES_LIST_LABEL":"Choices List",
+   "LABEL_USER_PREF_FR_ANN_PRINT_LABEL":"Annotation Printing Preferences",
+   "LABEL_USER_PREF_FR_SETUP_POV_LABEL":"Setup User POV",
+   "LABEL_USER_PREF_FR_ANN_PRINT_OPT_DET_LABEL":"Details",
+   "LABEL_USER_PREF_FR_ANN_PRINT_OPT_TXT_LABEL":"Text Object",
+   "LABEL_USER_PREF_FR_ANN_PRINT_OPT_NONE_LABEL":"None",
+   "LABEL_USER_PREF_AD_MEMBER_NAME":"Name",
+   "LABEL_USER_PREF_AD_MEMBER_NAME_AND_ALIAS":"Name and Alias",
+   "LABEL_USER_PREF_FR_ANN_TITLE":"Title",
+   "LABEL_USER_PREF_FR_ANN_DESCRIPTION":"Description",
+   "LABEL_USER_PREF_FR_ANN_CATEOGRY":"Category",
+   "LABEL_USER_PREF_FR_ANN_DATE":"Date",
+   "LABEL_USER_PREF_FR_ANN_AUTHOR":"Author",
+   "LABEL_USER_PREF_FR_ANN_ATTACHMENTS":"Attachments",
+   "LABEL_USER_PREF_FR_ANN__INCL_REPLIES":"Include Replies",
+   "LABEL_USER_PREF_FR_ANN_ALL":"All",
+   "LABEL_USER_PREF_FR_ANN_TOP":"Top",
+   "LABEL_USER_PREF_FR_ANN_BOTTOM":"Bottom",
+   "LABEL_USER_PREF_FR_ANN_FOOTNOTE_TXT":"Use Footnote Text Object",
+   "LABEL_USER_PREF_FR_ANN_FOOTNOTE_DETAILS":"Use Footnote Details",
+   "LABEL_USER_PREF_FR_MS_APPLY":"Apply",
+   "LABEL_USER_PREF_FR_SETUP_MEMS":"Setup Members",
+   "LABEL_USER_PREF_SELECT_PLAN_TYPE":"Select Plan Type",
+   "LABEL_USER_PREF_FR_DISP_MEM_LABEL":"Display Member Label as",
+   "LABEL_USER_PREF_FR_MEM_NAME_LABEL":"Member Name",
+   "LABEL_SYSTEM_USER_AUTOMATIC":"<Automatic>",
+   "LABEL_USER_PREF_BROWSE_WITH_ELLIPSE":"Browse...",
+   "MSG_INVALID_EMAIL":"Email is invalid.",
+   "LABEL_ADHOC_MEMBER_INCLUSION":"Member inclusion",
+   "LABEL_ADHOC_NEXT_LEVEL":"Next level",
+   "LABEL_ADHOC_ALL_LEVEL":"All levels",
+   "LABEL_ADHOC_BOTTOM_LEVEL":"Bottom level",
+   "LABEL_ADHOC_ANCESTOR_POSITION":"Ancestor Position",
+   "LABEL_ADHOC_TOP":"Top",
+   "LABEL_ADHOC_BOTTOM":"Bottom",
+   "LABEL_ADHOC_INCLUDE_SELECTION":"Include selection",
+   "LABEL_ADHOC_WITHIN_SELECTED_GROUP":"Within selected group",
+   "LABEL_ADHOC_REMOVE_UNSELECTED_GROUP":"Remove unselected group",
+   "LABEL_ADHOC_DISPLAY":"Display",
+   "LABEL_ADHOC_MEMBER_NAME":"Member name",
+   "LABEL_ADHOC_MEMBER_NAME_ALIAS":"Member name and alias",
+   "LABEL_ADHOC_ALIAS":"Alias",
+   "LABEL_ADHOC_INDENTATION":"Indentation",
+   "LABEL_ADHOC_NONE":"None",
+   "LABEL_ADHOC_SUBITEM":"Subitem",
+   "LABEL_ADHOC_TOTALS":"Totals",
+   "LABEL_ADHOC_NAVIGATE_WITHOUT_DATA":"Navigate without refreshing data",
+   "LABEL_ADHOC_YES":"Yes",
+   "LABEL_ADHOC_NO":"No",
+   "LABEL_ADHOC_SUPPRESS_MISSING_DATA":"Suppress missing data",
+   "LABEL_ADHOC_ROW":"Row",
+   "LABEL_ADHOC_COLUMN":"Column",
+   "LABEL_ADHOC_SUPPRESS_MISSING_ZEROS":"Suppress missing zeros",
+   "LABEL_ADHOC_OPTIONS_REPEAT_MEMBERS":"Repeat members",
+   "LABEL_ADHOC_SUPPRESS_NO_ACCESS":"Suppress cells with no access",
+   "LABEL_ADHOC_ROW_COLUMNS":"Rows and columns",
+   "LABEL_ADHOC_SUPPRESS":"Suppress",
+   "LABEL_ADHOC_SUPPRESS_MISSING_BLOCKS_ROWS":"Missing blocks on rows",
+   "LABEL_ADHOC_REPLACEMENT":"Replacement",
+   "LABEL_USER_PREF_ADHOC_MISSING_NODATA":"No Data",
+   "LABEL_USER_PREF_ADHOC_NOACCESS":"No Access",
+   "LABEL_USER_PREF_ADHOC_SUBMIT_ZEROS":"Submit Zeros",
+   "LABEL_ADHOC_OPTIONS_ZEROS":"Zeros",
+   "LABEL_PRECISION":"Precision",
+   "LABEL_MINIMUM":"Minimum",
+   "LABEL_MAXIMUM":"Maximum",
+   "LABEL_USER_PREF_CURRENCY_VALUES":"Currency Values",
+   "LABEL_USER_PREF_NON_CURRENCY_VALUES":"Non-Currency Values",
+   "LABEL_ADHOC_OPTIONS_MISSING_DATA":"Missing data",
+   "LABEL_SHOW_QUAL_NAME":"Show Qualified Name",
+   "LABEL_USER_PREF_FONT":"Font and Annotate",
+   "LABEL_USER_PREF_FONT_SIZE":"Font Size",
+   "LABEL_SELECT_USER":"Select User",
+   "LABEL_USER_PREF_FR_SELECT_TEXT_OBJECTS":"Select Reporting Text Objects",
+   "LABEL_USER_PREF_HSF_HDR":"Strategic Modeling",
+   "LABEL_USER_PREF_HSF_SUPPRESS_FUNDS":"Suppress funds flow out of balance warning",
+   "LABEL_USER_PREF_HSF_WARN_DEPRECATED":"Warn for deprecated functions",
+   "LABEL_USER_PREF_HSF_AUTO_CALC":"Auto calculate newly selected scenario",
+   "LABEL_USER_PREF_HSF_SUPPRESS_ZEROS":"Suppress zeros on analyze",
+   "LABEL_USER_PREF_HSF_DECIMALS_INPUT":"Number of decimals for input display",
+   "LABEL_USER_PREF_HSF_DECIMALS_OUTPUT":"Number of decimals for output display",
+   "LABEL_USER_PREF_HSF_ACCOUNTS":"Accounts",
+   "LABEL_USER_PREF_HSF_CALCULATIONS":"Calculations",
+   "LABEL_USER_PREF_DELEGATE_TO":"Delegate To",
+   "LABEL_LANGUAGE":"Language",
+   "LABEL_ADHOC_OPTIONS_NOACCESS":"No Access",
+   "LABEL_USER_PREF_FR_ALL_MEMBERS":"All Members",
+   "LABEL_HELP":"Help",
+   "LABEL_HELP_ON_THIS_TOPIC":"Help on This Topic",
+   "LABEL_CUSTOMER_FEEDBACK":"Provide Feedback",
+   "MSG_USER_PREF_FR_NOT_AVAILABLE":"Financial Reporting is not available.",
+   "LABEL_USER_PREF_MRU_MEMBERS":"Recently Used Members",
+   "LABEL_MEMBERS":"Members",
+   "MSG_USER_PREF_SAVE_CONF":"Preferences saved successfully",
+   "BUTTON_TEXT_OK":"OK",
+   "LABEL_USER_PREF_CONFIRMATION_HDR":"Confirmation",
+   "MSG_USER_PREF_MEMBER_NAME_INVALID":"Member name is invalid.",
+   "MSG_IMAGE_LIMIT_EXCEEDED":"The file could not be uploaded because it is too large.",
+   "LABEL_USER_PREF_APPROVAL_ACTION":"Action",
+   "LABEL_USER_PREF_SHOW_CONSLIDATION_OPERS":"Show Consolidation Operators",
+   "LABEL_USER_PREF_ZOOM_IN":"Zoom in",
+   "LABEL_USER_PREF_USE_CURRENCY_MBR_SETTING":"Use currency member setting",
+   "LABEL_CURRENCY_REPORTING_CURRENCY":"Reporting Currency",
+   "LABEL_USER_PREF_PAGE_DROPDOWN_ITEMS":"Number of Items on the Page Drop-down",
+   "LABEL_USER_PREF_FCCS_NOTIF_TYPE":"Notification Type",
+   "LABEL_USER_PREF_FCCS_NOTIF_ME":"Notify Me",
+   "LABEL_USER_PREF_FCCS_EMAIL_START_TIME":"Email Start Time",
+   "LABEL_USER_PREF_FCCS_EMAIL_END_TIME":"Email End Time",
+   "LABEL_SELECT":"Select",
+   "MSG_USER_PREF_NUMBER_VAL":"Enter a numeric value",
+   "LABEL_USER_PREF_OOO_MESSAGE":"Message",
+   "MSG_USER_PREF_INVALID_IMAGE":"Please select a valid image.",
+   "LABEL_TITLE_ERROR":"Error",
+   "MSG_USER_PREF_FCCS_EMAIL_TIME_VAL":"Email Start Time should be less than Email End Time.",
+   "MSG_USER_PREF_FCCS_EMAIL_TIME_INVALID":"Please select valid Email Start or End Time.",
+   "MSG_USER_PREF_NO_ITEMS_ON_PAGE_DORPDOWN_INVALID":"Number of items on the Page drop-down has invalid value.",
+   "LABEL_SUPPRESSION":"Suppression",
+   "LABEL_USER_PREF_USER_VARIABLE_VALUE":"Member",
+   "LABEL_USER_PREF_FR_SHOW_ANNOTATIONS":"Show Annotations",
+   "LABEL_USER_PREF_DISPLAY_MBR_LABEL":"Display Member Label as",
+   "LABEL_USER_PREF_ADHOC_OPTIONS_REPEAT_MEMBERS":"Repeated members",
+   "LABEL_USER_PREF_ADHOC_SUPPRESS":"Suppress",
+   "LABEL_USER_PREF_SUPP_DETAIL_ORDER":"Supporting Detail Order",
+   "LABEL_USER_PREF_PERCENTAGE_VALUES":"Percentage Values",
+   "LABEL_SHOW_PU_ALIAS_IN_APPROV_NOTIF":"Show Approval Units as Aliases in Approvals Notification",
+   "MSG_CONFIRMATION_REPORT_TITLE":"Confirmation",
+   "MSG_PREFERENCES_SAVED":"User Preferences have been saved.",
+   "LABEL_SEARCH_CODE":"Currency Code",
+   "LABEL_CURRENCY_SCENARIO_PERIOD":"Enable currency calculation based on scenario time period",
+   "LABEL_MR_UNIT_OF_MEASURE":"Unit of Measurement",
+   "LABEL_MR_PREVIEW_POV":"Preview POV",
+   "LABEL_MANAGEMENT_REPORTS_HEADER":"Reports",
+   "DETAILITEM_TEXT_FIN_REPORTS":"Financial Reports",
+   "memAliases":[
+      {
+         "value":"0",
+         "label":"Default"
+      },
+      {
+         "value":"1",
+         "label":"Member Name"
+      },
+      {
+         "value":"2",
+         "label":"Alias"
+      },
+      {
+         "value":"3",
+         "label":"Member Name:Alias"
+      },
+      {
+         "value":"4",
+         "label":"Alias:Member Name"
+      }
+   ],
+   "oooFonts":[
+      {
+         "value":"Courier New",
+         "label":"Courier New"
+      },
+      {
+         "value":"Impact",
+         "label":"Impact"
+      },
+      {
+         "value":"Comic Sans",
+         "label":"Comic Sans"
+      },
+      {
+         "value":"Tahoma",
+         "label":"Tahoma"
+      },
+      {
+         "value":"Helvetica",
+         "label":"Helvetica"
+      },
+      {
+         "value":"Arial",
+         "label":"Arial"
+      },
+      {
+         "value":"Times New Roman",
+         "label":"Times New Roman"
+      },
+      {
+         "value":"Georgia",
+         "label":"Georgia"
+      },
+      {
+         "value":"Font",
+         "label":"Font"
+      }
+   ],
+   "oooActions":[
+      {
+         "value":"1",
+         "label":"Reject"
+      },
+      {
+         "value":"6",
+         "label":"Promote"
+      },
+      {
+         "value":"17",
+         "label":"Submit"
+      },
+      {
+         "value":"7",
+         "label":"Delegate"
+      }
+   ],
+   "actionId":"1",
+   "autoUsers":[
+      {
+         "value":"2147483647",
+         "label":"<Automatic>"
+      }
+   ],
+   "autoUserId":"2147483647",
+   "oooOwners":[
+      {
+         "value":"50001",
+         "label":"Administrator "
+      },
+      {
+         "value":"50026",
+         "label":"Sam Hicks"
+      },
+      {
+         "value":"50027",
+         "label":"Jane Doe"
+      }
+   ],
+   "thousandSeparators":[
+      {
+         "value":"0",
+         "label":"None"
+      },
+      {
+         "value":"1",
+         "label":"Comma"
+      },
+      {
+         "value":"2",
+         "label":"Dot"
+      },
+      {
+         "value":"3",
+         "label":"Space"
+      },
+      {
+         "value":"4",
+         "label":"Underscore"
+      }
+   ],
+   "decimalSeparators":[
+      {
+         "value":"0",
+         "label":"Dot"
+      },
+      {
+         "value":"1",
+         "label":"Comma"
+      },
+      {
+         "value":"2",
+         "label":"Space"
+      },
+      {
+         "value":"3",
+         "label":"Underscore"
+      }
+   ],
+   "negativeSigns":[
+      {
+         "value":"0",
+         "label":"Prefixed Minus"
+      },
+      {
+         "value":"1",
+         "label":"Suffixed Minus"
+      },
+      {
+         "value":"2",
+         "label":"Parentheses"
+      }
+   ],
+   "negativeColors":[
+      {
+         "value":"0",
+         "label":"Black"
+      },
+      {
+         "value":"4",
+         "label":"Red"
+      }
+   ],
+   "pageDisplayOptions":[
+      {
+         "value":"0",
+         "label":"Indent level 0 members only"
+      },
+      {
+         "value":"1",
+         "label":"Indent based on hierarchy"
+      },
+      {
+         "value":"2",
+         "label":"Do not indent"
+      }
+   ],
+   "showConsoleOptions":[
+      {
+         "value":"0",
+         "label":"No"
+      },
+      {
+         "value":"1",
+         "label":"Yes"
+      },
+      {
+         "value":"1000",
+         "label":"Form Setting"
+      }
+   ],
+   "supportingDetails":[
+      {
+         "value":"1",
+         "label":"Normal Order"
+      },
+      {
+         "value":"2",
+         "label":"Reverse Order"
+      }
+   ],
+   "footNoteOptions":[
+      {
+         "value":"0",
+         "label":"Details"
+      },
+      {
+         "value":"1",
+         "label":"Text Object"
+      },
+      {
+         "value":"2",
+         "label":"None"
+      }
+   ],
+   "showConsoleOps":[
+      {
+         "value":"1",
+         "label":"Yes"
+      },
+      {
+         "value":"0",
+         "label":"No"
+      }
+   ],
+   "dateFormats":[
+      {
+         "label":"MM/dd/yyyy",
+         "value":"MM/dd/yyyy"
+      },
+      {
+         "label":"dd/MM/yyyy",
+         "value":"dd/MM/yyyy"
+      },
+      {
+         "label":"yyyy/MM/dd",
+         "value":"yyyy/MM/dd"
+      },
+      {
+         "label":"MM/dd/yy",
+         "value":"MM/dd/yy"
+      },
+      {
+         "label":"dd/MM/yy",
+         "value":"dd/MM/yy"
+      },
+      {
+         "label":"yy/MM/dd",
+         "value":"yy/MM/dd"
+      },
+      {
+         "label":"Automatically Detect",
+         "value":"AutoDetect"
+      },
+      {
+         "label":"MM-dd-yyyy",
+         "value":"MM-dd-yyyy"
+      },
+      {
+         "label":"dd-MM-yyyy",
+         "value":"dd-MM-yyyy"
+      },
+      {
+         "label":"yyyy-MM-dd",
+         "value":"yyyy-MM-dd"
+      },
+      {
+         "label":"MM.dd.yyyy",
+         "value":"MM.dd.yyyy"
+      },
+      {
+         "label":"MM dd yyyy",
+         "value":"MM dd yyyy"
+      },
+      {
+         "label":"dd.MM.yyyy",
+         "value":"dd.MM.yyyy"
+      },
+      {
+         "label":"dd MM yyyy",
+         "value":"dd MM yyyy"
+      },
+      {
+         "label":"MM.dd.yy",
+         "value":"MM.dd.yy"
+      },
+      {
+         "label":"MM dd yy",
+         "value":"MM dd yy"
+      },
+      {
+         "label":"MM-dd-yy",
+         "value":"MM-dd-yy"
+      },
+      {
+         "label":"dd.MM.yy",
+         "value":"dd.MM.yy"
+      },
+      {
+         "label":"dd-MM-yy",
+         "value":"dd-MM-yy"
+      },
+      {
+         "label":"dd MM yy",
+         "value":"dd MM yy"
+      },
+      {
+         "label":"MMM d yyyy",
+         "value":"MMM d yyyy"
+      },
+      {
+         "label":"d MMM yyyy",
+         "value":"d MMM yyyy"
+      },
+      {
+         "label":"MMM dd yyyy",
+         "value":"MMM dd yyyy"
+      },
+      {
+         "label":"dd MMM yyyy",
+         "value":"dd MMM yyyy"
+      }
+   ],
+   "userVars":[
+      {
+         "dimension":"Years",
+         "name":"PMYear",
+         "value":"FY14",
+         "dimid":38,
+         "userVarId":1,
+         "displayValue":"FY14"
+      }
+   ],
+   "msBtnClientId":"zr10:0:zt0:0:userVariableMemSelect",
+   "cancelBtnClientId":"j_id50",
+   "userVarValues":"",
+   "languages":[
+      {
+         "label":"Arabic",
+         "value":"1025"
+      },
+      {
+         "label":"Brazilian Portuguese",
+         "value":"1046"
+      },
+      {
+         "label":"Canadian French",
+         "value":"3084"
+      },
+      {
+         "label":"Danish",
+         "value":"1030"
+      },
+      {
+         "label":"Dutch",
+         "value":"1043"
+      },
+      {
+         "label":"English",
+         "value":"1033"
+      },
+      {
+         "label":"Finnish",
+         "value":"1035"
+      },
+      {
+         "label":"French",
+         "value":"1036"
+      },
+      {
+         "label":"German",
+         "value":"1031"
+      },
+      {
+         "label":"Italian",
+         "value":"1040"
+      },
+      {
+         "label":"Japanese",
+         "value":"1041"
+      },
+      {
+         "label":"Korean",
+         "value":"1042"
+      },
+      {
+         "label":"Norwegian",
+         "value":"1044"
+      },
+      {
+         "label":"Polish",
+         "value":"1045"
+      },
+      {
+         "label":"Russian",
+         "value":"1049"
+      },
+      {
+         "label":"Simplified Chinese",
+         "value":"2052"
+      },
+      {
+         "label":"Spanish",
+         "value":"1034"
+      },
+      {
+         "label":"Swedish",
+         "value":"1053"
+      },
+      {
+         "label":"Traditional Chinese",
+         "value":"1028"
+      },
+      {
+         "label":"Turkish",
+         "value":"1055"
+      }
+   ],
+   "language":"1033",
+   "languageCodeDefault":"en",
+   "languageCode":"en",
+   "modId":"feed",
+   "modType":"3",
+   "modUrl":"http://slc09euw.us.oracle.com:19000/workspace/index.jsp",
+   "ssoToken":"1LzV+6heA/0TidB4+N7Ofj0PNvAs9QN24xmHdm5Pm2QZf45F9O8ZxJIswUZlQRnnn/DJG3Erez3UO+Ijsl459sqF5g2Pwm3B3DZ0AQB1Vj2/SCAxwOx5bn4KhVTU7yeaSSvNDFz+xbxaNIPMFCFN9KTs63wazdK8y9t/DrMoRlk97gE4/2o1kfZWlI6Qjhf158YWKolM6aoQeYyv6vqMoqinreYcd52cuwzkCruzAVhP0SK928JnztKlISFHd5ossZxlTZeSSPBcF7mSODzCsyvp/fFLF5T0aFe4f9vV741dwqWWuf0mN7df8pUJnAxJWJEB1OVYjMMzq3GdJjX2YfjwbVFKY5BDIxHEG3YjskT89fWVDmhxEWKt6SXHgkzDWV+Bi4Us2S8S3IwD+QFf63AgzcOjK7EFihbf38fw0kIBYjLMhBoTs9avOseO8go4j5bzi8EfgMx2lvHQs8kgcPWPchnuytpPhVGVAFlj/q0=",
+   "reqParams":"",
+   "helpUrl":"http://docs.oracle.com/cloud/latest/pbcs_common/index.html",
+   "oracleSupport":"https://support.oracle.com/",
+   "helpOnTopicUrl":"",
+   "userAssistBtnClientId":"null",
+   "oracleSupportLabel":"Oracle Support",
+   "SHOW_MEMBER_NAME":2,
+   "SHOW_MEMBER_BOTH":6,
+   "SHOW_MEMBER_ALIAS":4,
+   "PREF_PAGE_DISPLAY_FLAT":2,
+   "PREF_PAGE_DISPLAY_HIERARCHY":1,
+   "PREF_PAGE_DISPLAY_TOTALS":3,
+   "includeSelection":true,
+   "withinSelectedGrp":false,
+   "zoomInLevel":"0",
+   "ancestorPos":"1",
+   "memDisplay":"2",
+   "adAliasTblId":"14",
+   "navigateWithData":"Y",
+   "suppressZeroRows":false,
+   "suppressZeroCols":false,
+   "repeatMbr":false,
+   "suppresMissingBlocks":false,
+   "suppressMissingRows":false,
+   "suppressMissingCols":false,
+   "useCurrencyPrec":false,
+   "precisionCurrMin":"0",
+   "precisionCurrMax":"-1",
+   "nonCurrencyMinValue":"0",
+   "nonCurrencyMaxValue":"-1",
+   "percentageCurrMinValue":"0",
+   "percentageCurrMaxValue":"-1",
+   "missingNoData":"#missing",
+   "noAccessText":"#noaccess",
+   "indentValue":"1",
+   "adSubmitZeros":"N",
+   "suppressNoAccessRows":"false",
+   "suppressNoAccessCols":"false",
+   "smUserPrefs":"{\"hsfAutoCalc\":\"N\",\"hsfSuppFunds\":\"N\",\"hsfSuppZeros\":\"N\",\"hsfWarnDep\":\"Y\",\"hsfInputDecimals\":0,\"hsfOutputDecimals\":0}",
+   "stickyPrefs":"{}",
+   "mrPrefs":"{\"mr.report.preview.reportingPreviewPOV\":\"false\",\"mr.report.design.unitOfMeasure\":\"INCH\"}",
+   "MR_PREF_UNIT_OF_MEASURE":"mr.report.design.unitOfMeasure",
+   "MR_PREF_REPORTING_PREVIEW_POV":"mr.report.preview.reportingPreviewPOV",
+   "MR_PREF_REPORTING_PREVIEW_POV_DEFAULT":"false",
+   "MR_PREF_UNIT_OF_MEASURE_DEFAULT":"INCH",
+   "mrUnitOfMeasureOptions":"[{\"value\": \"INCH\",\"label\": \"Inch\"},{\"value\": \"CM\",\"label\": \"Centimeter\"}]",
+   "isFccsApp":true,
+   "isSalesApp":false,
+   "timePickerList":"[{\"label\":\"12:00 AM\",\"value\":\"0\"},{\"label\":\"12:30 AM\",\"value\":\"1\"},{\"label\":\"1:00 AM\",\"value\":\"2\"},{\"label\":\"1:30 AM\",\"value\":\"3\"},{\"label\":\"2:00 AM\",\"value\":\"4\"},{\"label\":\"2:30 AM\",\"value\":\"5\"},{\"label\":\"3:00 AM\",\"value\":\"6\"},{\"label\":\"3:30 AM\",\"value\":\"7\"},{\"label\":\"4:00 AM\",\"value\":\"8\"},{\"label\":\"4:30 AM\",\"value\":\"9\"},{\"label\":\"5:00 AM\",\"value\":\"10\"},{\"label\":\"5:30 AM\",\"value\":\"11\"},{\"label\":\"6:00 AM\",\"value\":\"12\"},{\"label\":\"6:30 AM\",\"value\":\"13\"},{\"label\":\"7:00 AM\",\"value\":\"14\"},{\"label\":\"7:30 AM\",\"value\":\"15\"},{\"label\":\"8:00 AM\",\"value\":\"16\"},{\"label\":\"8:30 AM\",\"value\":\"17\"},{\"label\":\"9:00 AM\",\"value\":\"18\"},{\"label\":\"9:30 AM\",\"value\":\"19\"},{\"label\":\"10:00 AM\",\"value\":\"20\"},{\"label\":\"10:30 AM\",\"value\":\"21\"},{\"label\":\"11:00 AM\",\"value\":\"22\"},{\"label\":\"11:30 AM\",\"value\":\"23\"},{\"label\":\"12:00 PM\",\"value\":\"24\"},{\"label\":\"12:30 PM\",\"value\":\"25\"},{\"label\":\"1:00 PM\",\"value\":\"26\"},{\"label\":\"1:30 PM\",\"value\":\"27\"},{\"label\":\"2:00 PM\",\"value\":\"28\"},{\"label\":\"2:30 PM\",\"value\":\"29\"},{\"label\":\"3:00 PM\",\"value\":\"30\"},{\"label\":\"3:30 PM\",\"value\":\"31\"},{\"label\":\"4:00 PM\",\"value\":\"32\"},{\"label\":\"4:30 PM\",\"value\":\"33\"},{\"label\":\"5:00 PM\",\"value\":\"34\"},{\"label\":\"5:30 PM\",\"value\":\"35\"},{\"label\":\"6:00 PM\",\"value\":\"36\"},{\"label\":\"6:30 PM\",\"value\":\"37\"},{\"label\":\"7:00 PM\",\"value\":\"38\"},{\"label\":\"7:30 PM\",\"value\":\"39\"},{\"label\":\"8:00 PM\",\"value\":\"40\"},{\"label\":\"8:30 PM\",\"value\":\"41\"},{\"label\":\"9:00 PM\",\"value\":\"42\"},{\"label\":\"9:30 PM\",\"value\":\"43\"},{\"label\":\"10:00 PM\",\"value\":\"44\"},{\"label\":\"10:30 PM\",\"value\":\"45\"},{\"label\":\"11:00 PM\",\"value\":\"46\"},{\"label\":\"11:30 PM\",\"value\":\"47\"}]",
+   "emailTimes":"[{\"startHour\":0,\"endHour\":0}]",
+   "notifCatSettings":"[{\"label\":\"Mixed\",\"value\":\"-2\"},{\"label\":\"Never\",\"value\":\"-1\"},{\"label\":\"Once a day\",\"value\":\"0\"},{\"label\":\"Immediately\",\"value\":\"99\"},{\"label\":\"Every 2 hours\",\"value\":\"4\"},{\"label\":\"Every 3 hours\",\"value\":\"6\"},{\"label\":\"Every 4 hours\",\"value\":\"8\"},{\"label\":\"Every 6 hours\",\"value\":\"12\"}]",
+   "categories":"[{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":-1,\"categoryId\":5001,\"appId\":-1,\"setting\":\"0\",\"category\":\"Late Notification\"},\"children\":[{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":1,\"categoryId\":2001,\"appId\":1,\"setting\":\"0\",\"category\":\"Financial Close Cloud Service\"},\"children\":[{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":1,\"categoryId\":201,\"appId\":1,\"setting\":\"0\",\"category\":\"You are the task approver and task approver is late\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":1,\"categoryId\":202,\"appId\":1,\"setting\":\"0\",\"category\":\"You are the task assignee and task assignee is late\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":1,\"categoryId\":203,\"appId\":1,\"setting\":\"0\",\"category\":\"You are the task owner and task assignee is late\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":1,\"categoryId\":204,\"appId\":1,\"setting\":\"0\",\"category\":\"You are the task owner and task approver is late\"},\"children\":[]}]}]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":-2,\"categoryId\":5002,\"appId\":-2,\"setting\":\"-2\",\"category\":\"Status Change Notification\"},\"children\":[{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":2003,\"appId\":1,\"setting\":\"-2\",\"category\":\"Financial Close Cloud Service\"},\"children\":[{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":208,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the alert approver and alert status changes to open with approver\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":209,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the alert assignee and alert status changes to open with assignee\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":210,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the alert owner and alert status changes to open with assignee\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":211,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the alert owner and alert status changes to open with approver\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":212,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the alert owner and alert status changes to completed\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":213,\"appId\":1,\"setting\":\"0\",\"category\":\"You are the backup approver and the primary approver is unavailable\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":214,\"appId\":1,\"setting\":\"0\",\"category\":\"You are the backup assignee and the primary assignee is unavailable\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":215,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the schedule owner and schedule is created\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":216,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the schedule owner and schedule status changes to open\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":217,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the schedule owner and schedule status changes to locked\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":218,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the schedule owner and schedule status changes to closed\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":219,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the schedule viewer and schedule is created\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":220,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the schedule viewer and schedule status changes to open\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":221,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the schedule viewer and schedule status changes to locked\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":222,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the schedule viewer and schedule status changes to closed\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":223,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task approver and task status changes to open with approver\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":224,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task assignee and task status changes to open with assignee\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":225,\"appId\":1,\"setting\":\"99\",\"category\":\"Schedule status changes to open and you have tasks requiring authorization\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":226,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task owner and task status changes to open with assignee\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":227,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task owner and task status changes to open with approver\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":228,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task owner and task status changes to closed\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":229,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task owner and task status changes to force closed\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":230,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task owner and task status changes to aborted\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":231,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task viewer and task status changes to open with assignee\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":232,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task viewer and task status changes to open with approver\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":233,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task viewer and task status changes to closed\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":234,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task viewer and task status changes to force closed\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":235,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the task viewer and task status changes to aborted\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":601,\"appId\":1,\"setting\":\"99\",\"category\":\"You are a Journal Approver and the Journal needs approval\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":2,\"categoryId\":602,\"appId\":1,\"setting\":\"99\",\"category\":\"You are the Journal Submitter and the Journal needs to be posted\"},\"children\":[]}]}]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":-3,\"categoryId\":5003,\"appId\":-3,\"setting\":\"0\",\"category\":\"Due Date Reminder Notification\"},\"children\":[{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":3,\"categoryId\":2002,\"appId\":1,\"setting\":\"0\",\"category\":\"Financial Close Cloud Service\"},\"children\":[{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":3,\"categoryId\":236,\"appId\":1,\"setting\":\"0\",\"category\":\"You are the task assignee and assignee due date is within 1 days\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":3,\"categoryId\":237,\"appId\":1,\"setting\":\"0\",\"category\":\"You are the task approver and approver due date is within 1 days\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":3,\"categoryId\":205,\"appId\":1,\"setting\":\"0\",\"category\":\"You are the task approver and task is \\\"At Risk\\\"\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":3,\"categoryId\":206,\"appId\":1,\"setting\":\"0\",\"category\":\"You are the task assignee and task is \\\"At Risk\\\"\"},\"children\":[]},{\"attr\":{\"modifiable\":true,\"isDirty\":false,\"notifType\":3,\"categoryId\":207,\"appId\":1,\"setting\":\"0\",\"category\":\"You are the task owner and task is \\\"At Risk\\\"\"},\"children\":[]}]}]}]",
+   "fccsUiAccessModel":"{\"timezone\":true,\"number_formats\":true,\"fccs_notif\":true,\"alias_settings\":true,\"form_printing\":true,\"language\":true,\"page_options\":true,\"other_options\":true,\"mru\":true,\"notif_checkboxes\":true,\"management_reports\":false,\"approvals\":true,\"fr_options\":true,\"date_format\":true,\"ooo_checkbox\":true,\"consolidation_enable\":true,\"ooo_assistance\":true,\"adhoc_opts\":true,\"user_variables\":true,\"email\":true}"
 }
