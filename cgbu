@@ -1,0 +1,344 @@
+{
+	"profile": {
+		"name": "typicode"
+	},
+	"socialfeeds": [{
+		"name": "Facebook",
+		"mentions": {
+			"positive_feedback": 10,
+			"negative_feedback": 30
+		}
+	},
+	{
+		"name": "Instagram",
+		"mentions": {
+			"positive_feedback": 25,
+			"negative_feedback": 10
+		}
+	},
+	{
+		"name": "LinkedIn",
+		"mentions": {
+			"positive_feedback": 35,
+			"negative_feedback": 20
+		}
+	},
+	{
+		"name": "Twitter",
+		"mentions": {
+			"positive_feedback": 20,
+			"negative_feedback": 10
+		}
+	}],
+	"mybills": [{
+		"id": 307581780800776104,
+		"accountRef": {
+			"href": "/omc/webresources/v1.0/accounts/183037"
+		},
+		"billingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"arBillingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"name": "PIN Bill NOW",
+		"number": "B1-2",
+		"createdDate": "2017-12-01T02:27:30-08:00",
+		"startDate": "2017-11-01T00:00:00-07:00",
+		"endDate": "2017-12-31T02:27:30-08:00",
+		"dueDate": "2017-12-25T02:27:30-08:00",
+		"currentTotal": 32.23,
+		"previousTotal": 19.98,
+		"subordinateTotal": 0,
+		"due": 0,
+		"received": 0,
+		"transfered": 0,
+		"writeoff": 0,
+		"disputed": 0
+	},
+	{
+		"id": 306596618382266109,
+		"accountRef": {
+			"href": "/omc/webresources/v1.0/accounts/183037"
+		},
+		"billingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"arBillingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"name": "PIN Bill",
+		"number": "B1-1",
+		"createdDate": "2017-09-19T15:04:30-07:00",
+		"startDate": "2017-09-19T00:00:00-07:00",
+		"endDate": "2017-10-19T00:00:00-07:00",
+		"dueDate": "2017-11-18T00:00:00-08:00",
+		"currentTotal": 19.98,
+		"previousTotal": 23.11,
+		"subordinateTotal": 0,
+		"due": 19.98,
+		"received": 0,
+		"transfered": 0,
+		"writeoff": 0,
+		"disputed": 0
+	},
+	{
+		"id": 307581780800776105,
+		"accountRef": {
+			"href": "/omc/webresources/v1.0/accounts/183037"
+		},
+		"billingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"arBillingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"name": "PIN Bill NOW",
+		"number": "B1-2",
+		"createdDate": "2017-12-01T02:27:30-08:00",
+		"startDate": "2017-11-01T00:00:00-07:00",
+		"endDate": "2017-12-31T02:27:30-08:00",
+		"dueDate": "2017-12-25T02:27:30-08:00",
+		"currentTotal": 23.11,
+		"previousTotal": 12.12,
+		"subordinateTotal": 0,
+		"due": 0,
+		"received": 0,
+		"transfered": 0,
+		"writeoff": 0,
+		"disputed": 0
+	},
+	{
+		"id": 306596618382266106,
+		"accountRef": {
+			"href": "/omc/webresources/v1.0/accounts/183037"
+		},
+		"billingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"arBillingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"name": "PIN Bill",
+		"number": "B1-1",
+		"createdDate": "2017-09-19T15:04:30-07:00",
+		"startDate": "2017-09-19T00:00:00-07:00",
+		"endDate": "2017-10-19T00:00:00-07:00",
+		"dueDate": "2017-11-18T00:00:00-08:00",
+		"currentTotal": 12.12,
+		"previousTotal": 11.11,
+		"subordinateTotal": 0,
+		"due": 19.98,
+		"received": 0,
+		"transfered": 0,
+		"writeoff": 0,
+		"disputed": 0
+	},
+	{
+		"id": 307581780800776107,
+		"accountRef": {
+			"href": "/omc/webresources/v1.0/accounts/183037"
+		},
+		"billingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"arBillingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"name": "PIN Bill NOW",
+		"number": "B1-2",
+		"createdDate": "2017-12-01T02:27:30-08:00",
+		"startDate": "2017-11-01T00:00:00-07:00",
+		"endDate": "2017-12-31T02:27:30-08:00",
+		"dueDate": "2017-12-25T02:27:30-08:00",
+		"currentTotal": 11.11,
+		"previousTotal": 10.10,
+		"subordinateTotal": 0,
+		"due": 0,
+		"received": 0,
+		"transfered": 0,
+		"writeoff": 0,
+		"disputed": 0
+	},
+	{
+		"id": 306596618382266108,
+		"accountRef": {
+			"href": "/omc/webresources/v1.0/accounts/183037"
+		},
+		"billingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"arBillingPreferenceRef": {
+			"href": "/omc/webresources/v1.0/billingPreferences/182013"
+		},
+		"name": "PIN Bill",
+		"number": "B1-1",
+		"createdDate": "2017-09-19T15:04:30-07:00",
+		"startDate": "2017-09-19T00:00:00-07:00",
+		"endDate": "2017-10-19T00:00:00-07:00",
+		"dueDate": "2017-11-18T00:00:00-08:00",
+		"currentTotal": 10.10,
+		"previousTotal": 10.08,
+		"subordinateTotal": 0,
+		"due": 19.98,
+		"received": 0,
+		"transfered": 0,
+		"writeoff": 0,
+		"disputed": 0
+	}],
+	"accounts": {
+		"totalResults": 1,
+		"offset": 0,
+		"limit": 20,
+		"count": 1,
+		"hasMore": false,
+		"items": [{
+			"id": "84193",
+			"accountNumber": "rtyui",
+			"name": "PIN Account Object",
+			"type": "consumer",
+			"parentAccountNumber": "rtyui",
+			"currency": "USD",
+			"status": "active",
+			"deactiveOn": "1969-12-31",
+			"createdOn": "2021-09-15",
+			"updatedOn": "2021-11-02",
+			"locale": "en_US",
+			"contacts": [{
+				"id": "841931",
+				"firstName": "Adam",
+				"lastName": "Ada",
+				"company": "Oracle BRMC",
+				"email": "first.last@my.com",
+				"address": {
+					"street": "4210 Network Circle",
+					"city": "Santa Clara",
+					"state": "CA",
+					"postalCode": "95054",
+					"country": "USA"
+				}
+			}],
+			"billingPreferences": [{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/billingPreferences/84705"
+				}]
+			}],
+			"paymentProfiles": [{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/paymentProfiles/83169"
+				}]
+			}],
+			"validityPeriod": {
+				"start": "2021-09-15T08:22:02.000+0000"
+			},
+			"notes": [{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/84961"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/85985"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/198458"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/199354"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200058"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200186"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/198150"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/199430"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200326"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/196678"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200006"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/200646"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/196902"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/notes/204378"
+				}]
+			}],
+			"contracts": [{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/contracts/199802"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/contracts/197690"
+				}]
+			},
+			{
+				"links": [{
+					"rel": "self",
+					"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/contracts/198854"
+				}]
+			}],
+			"links": [{
+				"rel": "self",
+				"href": "http://slc11xlq.us.oracle.com:8080/omc/v1.0/accounts/84193"
+			}]
+		}]
+	}
+}
